@@ -5,7 +5,8 @@
 #### network exploration ####
 library(bipartite)
 
-setwd("~/Documents/Network/Felipe")
+#setwd("~/Documents/Network/Felipe")
+setwd("~/Documents/Temporary/Network/Felipe")
 
 dat=read.csv("Goose_Data.csv")
 
@@ -47,7 +48,11 @@ modgo=computeModules(goose)
 modules=modgo@modules[-1,-c(1:2)]
 listModuleInformation(modgo)
 
-### non zero
+#### non zero ####
+library(bipartite)
+
+setwd("~/Documents/Temporary/Network/Felipe")
+
 dat=read.csv("Goose_Data.csv")
 
 goose2=dat[,-c(1:5)]
@@ -82,4 +87,24 @@ g1h=as.numeric(g1[-232])
 g2h=as.numeric(g2[-c(58:63)])
 g3h=as.numeric(g3[-c(210,211)])
 
+modgo=metaComputeModules(goose,N=10)
+modules=modgo@modules[-1,-c(1:2)]
 
+ro=rownames(goose)
+co=colnames(goose)
+nam=c(ro,co)
+
+g1=nam[which(modules[1,]!=0)]
+g2=nam[which(modules[2,]!=0)]
+g3=nam[which(modules[3,]!=0)]
+g4=nam[which(modules[4,]!=0)]
+
+tail(g1)
+tail(g2)
+tail(g3)
+tail(g4)
+
+# 1: TT, PC
+# 2: HD
+# 3: DL, DB, SG, CL
+# 4: CA, ER

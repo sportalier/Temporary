@@ -71,10 +71,95 @@ levels(as.factor(inter$published_data.interactor2sizesi))
 
 dodo=water[,c(2,17,51,85,86,87,88,89,95,96,97,128,129,130,131,132,138,139)]
 
+sizepred=rep(0,nrow(dodo))
+for (i in 1:nrow(dodo)){
+  if (is.na(dodo$published_data.interactor1size[i])==F){
+    sizepred[i]=dodo$published_data.interactor1size[i]
+  }else{
+    sizepred[i]=dodo$published_data.interactor1massvaluesi[i]
+  }
+}
+
+sizeprey=rep(0,nrow(dodo))
+for (i in 1:nrow(dodo)){
+  if (is.na(dodo$published_data.interactor2size[i])==F){
+    sizeprey[i]=dodo$published_data.interactor2size[i]
+  }else{
+    sizeprey[i]=dodo$published_data.interactor2massvaluesi[i]
+  }
+}
+
+dodo=cbind(dodo,sizepred,sizeprey)
+write.csv(dodo,'Waterdata.csv',quote=F,row.names = F)
+
 #### terrestrial ####
 terre=subset(fr,fr$published_data.habitat=='terrestrial')
 terre=droplevels(terre)
 dodoterre=terre[,c(2,17,51,85,86,87,88,89,95,96,97,128,129,130,131,132,138,139)]
 
 levels(dodoterre$published_data.interactor1)
+
+sizepred=rep(0,nrow(dodoterre))
+for (i in 1:nrow(dodoterre)){
+  if (is.na(dodoterre$published_data.interactor1size[i])==F){
+    sizepred[i]=dodoterre$published_data.interactor1size[i]
+  }else{
+    sizepred[i]=dodoterre$published_data.interactor1massvaluesi[i]
+  }
+}
+
+sizeprey=rep(0,nrow(dodoterre))
+for (i in 1:nrow(dodoterre)){
+  if (is.na(dodoterre$published_data.interactor2size[i])==F){
+    sizeprey[i]=dodoterre$published_data.interactor2size[i]
+  }else{
+    sizeprey[i]=dodoterre$published_data.interactor2massvaluesi[i]
+  }
+}
+
+dodoterre=cbind(dodoterre,sizepred,sizeprey)
+write.csv(dodoterre,'Terrestrialdata.csv',quote=F,row.names = F)
+
+
+#### velocity ####
+dat=read.csv("Velocity.csv")
+
+levels(dat$published_data.originaltraitname)
+
+foraging=subset(dat,dat$published_data.originaltraitname=='Foraging Velocity')
+foraging=droplevels(foraging)
+levels(foraging$published_data.interactor1)
+
+foraging=subset(dat,dat$published_data.originaltraitname=='Voluntary Body Velocity')
+foraging=droplevels(foraging)
+levels(foraging$published_data.interactor1)
+
+dododat=dat[,c(2,17,51,85,86,87,88,89,95,96,97,128,129,130,131,132,138,139)]
+
+levels(dododat$published_data.interactor1)
+
+sizepred=rep(0,nrow(dododat))
+for (i in 1:nrow(dododat)){
+  if (is.na(dododat$published_data.interactor1size[i])==F){
+    sizepred[i]=dododat$published_data.interactor1size[i]
+  }else{
+    sizepred[i]=dododat$published_data.interactor1massvaluesi[i]
+  }
+}
+
+sizeprey=rep(0,nrow(dododat))
+for (i in 1:nrow(dododat)){
+  if (is.na(dododat$published_data.interactor2size[i])==F){
+    sizeprey[i]=dododat$published_data.interactor2size[i]
+  }else{
+    sizeprey[i]=dododat$published_data.interactor2massvaluesi[i]
+  }
+}
+
+dododat=cbind(dododat,sizepred,sizeprey)
+write.csv(dododat,'Velocitydata.csv',quote=F,row.names = F)
+
+#### attack ####
+
+
 

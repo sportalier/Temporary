@@ -1,0 +1,734 @@
+published_data.originaltraitname,published_data.habitat,published_data.interactor1,published_data.interactor1size,published_data.interactor1sizeunit,published_data.interactor1sizetype,published_data.interactor1sizesi,published_data.interactor1sizeunitsi,published_data.interactor1massvaluesi,published_data.interactor1massunitsi,published_data.interactor2,published_data.interactor2size,published_data.interactor2sizeunit,published_data.interactor2sizetype,published_data.interactor2sizesi,published_data.interactor2sizeunitsi,published_data.interactor2massvaluesi,published_data.interactor2massunitsi,sizepred,sizeprey
+Voluntary Body Velocity,marine,Melanogrammus aeglefinus,0.006,meter,body length (mean),1.61776168393701e-06,kilogram,1.61776168393701e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,0.006,NA
+Voluntary Body Velocity,marine,Melanogrammus aeglefinus,0.006,meter,body length (mean),1.61776168393701e-06,kilogram,1.61776168393701e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,0.006,NA
+Voluntary Body Velocity,marine,Melanogrammus aeglefinus,0.006,meter,body length (mean),1.61776168393701e-06,kilogram,1.61776168393701e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,0.006,NA
+Voluntary Body Velocity,terrestrial,Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),,NA,,not stated,NA,,NA,,0.0333,NA
+Voluntary Body Velocity,terrestrial,Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),,NA,,not stated,NA,,NA,,0.0333,NA
+Voluntary Body Velocity,terrestrial,Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),,NA,,not stated,NA,,NA,,0.0333,NA
+Voluntary Body Velocity,terrestrial,Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),,NA,,not stated,NA,,NA,,0.0333,NA
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0333,kilogram,wet body mass (mean),0.0333,kilogram,0.0333,kilogram (wet body mass),80,0.0333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0013,kilogram,wet body mass (point),0.0013,kilogram,0.0013,kilogram (wet body mass),80,0.0013
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0011,kilogram,wet body mass (point),0.0011,kilogram,0.0011,kilogram (wet body mass),80,0.0011
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0012,kilogram,wet body mass (point),0.0012,kilogram,0.0012,kilogram (wet body mass),80,0.0012
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0057,kilogram,wet body mass (point),0.0057,kilogram,0.0057,kilogram (wet body mass),80,0.0057
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0106,kilogram,wet body mass (point),0.0106,kilogram,0.0106,kilogram (wet body mass),80,0.0106
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0144,kilogram,wet body mass (point),0.0144,kilogram,0.0144,kilogram (wet body mass),80,0.0144
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0014,kilogram,wet body mass (point),0.0014,kilogram,0.0014,kilogram (wet body mass),80,0.0014
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0351,kilogram,wet body mass (point),0.0351,kilogram,0.0351,kilogram (wet body mass),80,0.0351
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0013,kilogram,wet body mass (point),0.0013,kilogram,0.0013,kilogram (wet body mass),80,0.0013
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0182,kilogram,wet body mass (point),0.0182,kilogram,0.0182,kilogram (wet body mass),80,0.0182
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0075,kilogram,wet body mass (point),0.0075,kilogram,0.0075,kilogram (wet body mass),80,0.0075
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0014,kilogram,wet body mass (point),0.0014,kilogram,0.0014,kilogram (wet body mass),80,0.0014
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0085,kilogram,wet body mass (point),0.0085,kilogram,0.0085,kilogram (wet body mass),80,0.0085
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0364,kilogram,wet body mass (point),0.0364,kilogram,0.0364,kilogram (wet body mass),80,0.0364
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0309,kilogram,wet body mass (point),0.0309,kilogram,0.0309,kilogram (wet body mass),80,0.0309
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0013,kilogram,wet body mass (point),0.0013,kilogram,0.0013,kilogram (wet body mass),80,0.0013
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0013,kilogram,wet body mass (point),0.0013,kilogram,0.0013,kilogram (wet body mass),80,0.0013
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0014,kilogram,wet body mass (point),0.0014,kilogram,0.0014,kilogram (wet body mass),80,0.0014
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0723,kilogram,wet body mass (point),0.0723,kilogram,0.0723,kilogram (wet body mass),80,0.0723
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0325,kilogram,wet body mass (point),0.0325,kilogram,0.0325,kilogram (wet body mass),80,0.0325
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0132,kilogram,wet body mass (point),0.0132,kilogram,0.0132,kilogram (wet body mass),80,0.0132
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0127,kilogram,wet body mass (point),0.0127,kilogram,0.0127,kilogram (wet body mass),80,0.0127
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0219,kilogram,wet body mass (point),0.0219,kilogram,0.0219,kilogram (wet body mass),80,0.0219
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0317,kilogram,wet body mass (point),0.0317,kilogram,0.0317,kilogram (wet body mass),80,0.0317
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0175,kilogram,wet body mass (point),0.0175,kilogram,0.0175,kilogram (wet body mass),80,0.0175
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0037,kilogram,wet body mass (point),0.0037,kilogram,0.0037,kilogram (wet body mass),80,0.0037
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0055,kilogram,wet body mass (point),0.0055,kilogram,0.0055,kilogram (wet body mass),80,0.0055
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0075,kilogram,wet body mass (point),0.0075,kilogram,0.0075,kilogram (wet body mass),80,0.0075
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0057,kilogram,wet body mass (point),0.0057,kilogram,0.0057,kilogram (wet body mass),80,0.0057
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0014,kilogram,wet body mass (point),0.0014,kilogram,0.0014,kilogram (wet body mass),80,0.0014
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0013,kilogram,wet body mass (point),0.0013,kilogram,0.0013,kilogram (wet body mass),80,0.0013
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0011,kilogram,wet body mass (point),0.0011,kilogram,0.0011,kilogram (wet body mass),80,0.0011
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0013,kilogram,wet body mass (point),0.0013,kilogram,0.0013,kilogram (wet body mass),80,0.0013
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0013,kilogram,wet body mass (point),0.0013,kilogram,0.0013,kilogram (wet body mass),80,0.0013
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0309,kilogram,wet body mass (point),0.0309,kilogram,0.0309,kilogram (wet body mass),80,0.0309
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0014,kilogram,wet body mass (point),0.0014,kilogram,0.0014,kilogram (wet body mass),80,0.0014
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0014,kilogram,wet body mass (point),0.0014,kilogram,0.0014,kilogram (wet body mass),80,0.0014
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0012,kilogram,wet body mass (point),0.0012,kilogram,0.0012,kilogram (wet body mass),80,0.0012
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0013,kilogram,wet body mass (point),0.0013,kilogram,0.0013,kilogram (wet body mass),80,0.0013
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0182,kilogram,wet body mass (point),0.0182,kilogram,0.0182,kilogram (wet body mass),80,0.0182
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0351,kilogram,wet body mass (point),0.0351,kilogram,0.0351,kilogram (wet body mass),80,0.0351
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0364,kilogram,wet body mass (point),0.0364,kilogram,0.0364,kilogram (wet body mass),80,0.0364
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0325,kilogram,wet body mass (point),0.0325,kilogram,0.0325,kilogram (wet body mass),80,0.0325
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0037,kilogram,wet body mass (point),0.0037,kilogram,0.0037,kilogram (wet body mass),80,0.0037
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0317,kilogram,wet body mass (point),0.0317,kilogram,0.0317,kilogram (wet body mass),80,0.0317
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0175,kilogram,wet body mass (point),0.0175,kilogram,0.0175,kilogram (wet body mass),80,0.0175
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0085,kilogram,wet body mass (point),0.0085,kilogram,0.0085,kilogram (wet body mass),80,0.0085
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0127,kilogram,wet body mass (point),0.0127,kilogram,0.0127,kilogram (wet body mass),80,0.0127
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0219,kilogram,wet body mass (point),0.0219,kilogram,0.0219,kilogram (wet body mass),80,0.0219
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0132,kilogram,wet body mass (point),0.0132,kilogram,0.0132,kilogram (wet body mass),80,0.0132
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0055,kilogram,wet body mass (point),0.0055,kilogram,0.0055,kilogram (wet body mass),80,0.0055
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0309,kilogram,wet body mass (point),0.0309,kilogram,0.0309,kilogram (wet body mass),80,0.0309
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0055,kilogram,wet body mass (point),0.0055,kilogram,0.0055,kilogram (wet body mass),80,0.0055
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0037,kilogram,wet body mass (point),0.0037,kilogram,0.0037,kilogram (wet body mass),80,0.0037
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0075,kilogram,wet body mass (point),0.0075,kilogram,0.0075,kilogram (wet body mass),80,0.0075
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0144,kilogram,wet body mass (point),0.0144,kilogram,0.0144,kilogram (wet body mass),80,0.0144
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0317,kilogram,wet body mass (point),0.0317,kilogram,0.0317,kilogram (wet body mass),80,0.0317
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0325,kilogram,wet body mass (point),0.0325,kilogram,0.0325,kilogram (wet body mass),80,0.0325
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0182,kilogram,wet body mass (point),0.0182,kilogram,0.0182,kilogram (wet body mass),80,0.0182
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0132,kilogram,wet body mass (point),0.0132,kilogram,0.0132,kilogram (wet body mass),80,0.0132
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0013,kilogram,wet body mass (point),0.0013,kilogram,0.0013,kilogram (wet body mass),80,0.0013
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0012,kilogram,wet body mass (point),0.0012,kilogram,0.0012,kilogram (wet body mass),80,0.0012
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0014,kilogram,wet body mass (point),0.0014,kilogram,0.0014,kilogram (wet body mass),80,0.0014
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0014,kilogram,wet body mass (point),0.0014,kilogram,0.0014,kilogram (wet body mass),80,0.0014
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0013,kilogram,wet body mass (point),0.0013,kilogram,0.0013,kilogram (wet body mass),80,0.0013
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0011,kilogram,wet body mass (point),0.0011,kilogram,0.0011,kilogram (wet body mass),80,0.0011
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0013,kilogram,wet body mass (point),0.0013,kilogram,0.0013,kilogram (wet body mass),80,0.0013
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0014,kilogram,wet body mass (point),0.0014,kilogram,0.0014,kilogram (wet body mass),80,0.0014
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0085,kilogram,wet body mass (point),0.0085,kilogram,0.0085,kilogram (wet body mass),80,0.0085
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0013,kilogram,wet body mass (point),0.0013,kilogram,0.0013,kilogram (wet body mass),80,0.0013
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0723,kilogram,wet body mass (point),0.0723,kilogram,0.0723,kilogram (wet body mass),80,0.0723
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0175,kilogram,wet body mass (point),0.0175,kilogram,0.0175,kilogram (wet body mass),80,0.0175
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0364,kilogram,wet body mass (point),0.0364,kilogram,0.0364,kilogram (wet body mass),80,0.0364
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0219,kilogram,wet body mass (point),0.0219,kilogram,0.0219,kilogram (wet body mass),80,0.0219
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0127,kilogram,wet body mass (point),0.0127,kilogram,0.0127,kilogram (wet body mass),80,0.0127
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.046,kilogram,wet body mass (point),0.046,kilogram,0.046,kilogram (wet body mass),80,0.046
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0435,kilogram,wet body mass (point),0.0435,kilogram,0.0435,kilogram (wet body mass),80,0.0435
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0332,kilogram,wet body mass (point),0.0332,kilogram,0.0332,kilogram (wet body mass),80,0.0332
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0394,kilogram,wet body mass (point),0.0394,kilogram,0.0394,kilogram (wet body mass),80,0.0394
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.02,kilogram,wet body mass (point),0.02,kilogram,0.02,kilogram (wet body mass),80,0.02
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.029,kilogram,wet body mass (point),0.029,kilogram,0.029,kilogram (wet body mass),80,0.029
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0014,kilogram,wet body mass (point),0.0014,kilogram,0.0014,kilogram (wet body mass),80,0.0014
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0317,kilogram,wet body mass (point),0.0317,kilogram,0.0317,kilogram (wet body mass),80,0.0317
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0364,kilogram,wet body mass (point),0.0364,kilogram,0.0364,kilogram (wet body mass),80,0.0364
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0013,kilogram,wet body mass (point),0.0013,kilogram,0.0013,kilogram (wet body mass),80,0.0013
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0106,kilogram,wet body mass (point),0.0106,kilogram,0.0106,kilogram (wet body mass),80,0.0106
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0013,kilogram,wet body mass (point),0.0013,kilogram,0.0013,kilogram (wet body mass),80,0.0013
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0012,kilogram,wet body mass (point),0.0012,kilogram,0.0012,kilogram (wet body mass),80,0.0012
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0013,kilogram,wet body mass (point),0.0013,kilogram,0.0013,kilogram (wet body mass),80,0.0013
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0014,kilogram,wet body mass (point),0.0014,kilogram,0.0014,kilogram (wet body mass),80,0.0014
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0325,kilogram,wet body mass (point),0.0325,kilogram,0.0325,kilogram (wet body mass),80,0.0325
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0309,kilogram,wet body mass (point),0.0309,kilogram,0.0309,kilogram (wet body mass),80,0.0309
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0011,kilogram,wet body mass (point),0.0011,kilogram,0.0011,kilogram (wet body mass),80,0.0011
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0014,kilogram,wet body mass (point),0.0014,kilogram,0.0014,kilogram (wet body mass),80,0.0014
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0013,kilogram,wet body mass (point),0.0013,kilogram,0.0013,kilogram (wet body mass),80,0.0013
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0132,kilogram,wet body mass (point),0.0132,kilogram,0.0132,kilogram (wet body mass),80,0.0132
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0127,kilogram,wet body mass (point),0.0127,kilogram,0.0127,kilogram (wet body mass),80,0.0127
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0182,kilogram,wet body mass (point),0.0182,kilogram,0.0182,kilogram (wet body mass),80,0.0182
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0219,kilogram,wet body mass (point),0.0219,kilogram,0.0219,kilogram (wet body mass),80,0.0219
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0175,kilogram,wet body mass (point),0.0175,kilogram,0.0175,kilogram (wet body mass),80,0.0175
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0075,kilogram,wet body mass (point),0.0075,kilogram,0.0075,kilogram (wet body mass),80,0.0075
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0085,kilogram,wet body mass (point),0.0085,kilogram,0.0085,kilogram (wet body mass),80,0.0085
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0351,kilogram,wet body mass (point),0.0351,kilogram,0.0351,kilogram (wet body mass),80,0.0351
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Thamnophis sirtalis,0.0057,kilogram,wet body mass (point),0.0057,kilogram,0.0057,kilogram (wet body mass),80,0.0057
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Sceloporus undulatus,0.063,meter,snout-vent length (mean),0.0055347638,kilogram,0.0055347638,kilogram (wet body mass),80,0.063
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Sceloporus undulatus,0.063,meter,snout-vent length (mean),0.0055347638,kilogram,0.0055347638,kilogram (wet body mass),80,0.063
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Sceloporus undulatus,0.063,meter,snout-vent length (mean),0.0055347638,kilogram,0.0055347638,kilogram (wet body mass),80,0.063
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Sceloporus undulatus,0.063,meter,snout-vent length (mean),0.0055347638,kilogram,0.0055347638,kilogram (wet body mass),80,0.063
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Sceloporus undulatus,0.063,meter,snout-vent length (mean),0.0055347638,kilogram,0.0055347638,kilogram (wet body mass),80,0.063
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Sceloporus undulatus,0.063,meter,snout-vent length (mean),0.0055347638,kilogram,0.0055347638,kilogram (wet body mass),80,0.063
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Sceloporus undulatus,0.063,meter,snout-vent length (mean),0.0055347638,kilogram,0.0055347638,kilogram (wet body mass),80,0.063
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Sceloporus undulatus,0.063,meter,snout-vent length (mean),0.0055347638,kilogram,0.0055347638,kilogram (wet body mass),80,0.063
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Sceloporus undulatus,0.063,meter,snout-vent length (mean),0.0055347638,kilogram,0.0055347638,kilogram (wet body mass),80,0.063
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00375,kilogram,wet body mass (point),0.00375,kilogram,0.00375,kilogram (wet body mass),NA,0.00375
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00149,kilogram,wet body mass (point),0.00149,kilogram,0.00149,kilogram (wet body mass),NA,0.00149
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00254,kilogram,wet body mass (point),0.00254,kilogram,0.00254,kilogram (wet body mass),NA,0.00254
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00211,kilogram,wet body mass (point),0.00211,kilogram,0.00211,kilogram (wet body mass),NA,0.00211
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00186,kilogram,wet body mass (point),0.00186,kilogram,0.00186,kilogram (wet body mass),NA,0.00186
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00499,kilogram,wet body mass (point),0.00499,kilogram,0.00499,kilogram (wet body mass),NA,0.00499
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00168,kilogram,wet body mass (point),0.00168,kilogram,0.00168,kilogram (wet body mass),NA,0.00168
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00305,kilogram,wet body mass (point),0.00305,kilogram,0.00305,kilogram (wet body mass),NA,0.00305
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00183,kilogram,wet body mass (point),0.00183,kilogram,0.00183,kilogram (wet body mass),NA,0.00183
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00466,kilogram,wet body mass (point),0.00466,kilogram,0.00466,kilogram (wet body mass),NA,0.00466
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00132,kilogram,wet body mass (point),0.00132,kilogram,0.00132,kilogram (wet body mass),NA,0.00132
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00219,kilogram,wet body mass (point),0.00219,kilogram,0.00219,kilogram (wet body mass),NA,0.00219
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00263,kilogram,wet body mass (point),0.00263,kilogram,0.00263,kilogram (wet body mass),NA,0.00263
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00106,kilogram,wet body mass (point),0.00106,kilogram,0.00106,kilogram (wet body mass),NA,0.00106
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00159,kilogram,wet body mass (point),0.00159,kilogram,0.00159,kilogram (wet body mass),NA,0.00159
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00209,kilogram,wet body mass (point),0.00209,kilogram,0.00209,kilogram (wet body mass),NA,0.00209
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00179,kilogram,wet body mass (point),0.00179,kilogram,0.00179,kilogram (wet body mass),NA,0.00179
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00648,kilogram,wet body mass (point),0.00648,kilogram,0.00648,kilogram (wet body mass),NA,0.00648
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00512,kilogram,wet body mass (point),0.00512,kilogram,0.00512,kilogram (wet body mass),NA,0.00512
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.0012,kilogram,wet body mass (point),0.0012,kilogram,0.0012,kilogram (wet body mass),NA,0.0012
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00433,kilogram,wet body mass (point),0.00433,kilogram,0.00433,kilogram (wet body mass),NA,0.00433
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00601,kilogram,wet body mass (point),0.00601,kilogram,0.00601,kilogram (wet body mass),NA,0.00601
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00295,kilogram,wet body mass (point),0.00295,kilogram,0.00295,kilogram (wet body mass),NA,0.00295
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00311,kilogram,wet body mass (point),0.00311,kilogram,0.00311,kilogram (wet body mass),NA,0.00311
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00202,kilogram,wet body mass (point),0.00202,kilogram,0.00202,kilogram (wet body mass),NA,0.00202
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00401,kilogram,wet body mass (point),0.00401,kilogram,0.00401,kilogram (wet body mass),NA,0.00401
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00078,kilogram,wet body mass (point),0.00078,kilogram,0.00078,kilogram (wet body mass),NA,0.00078
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.0027,kilogram,wet body mass (point),0.0027,kilogram,0.0027,kilogram (wet body mass),NA,0.0027
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00343,kilogram,wet body mass (point),0.00343,kilogram,0.00343,kilogram (wet body mass),NA,0.00343
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00212,kilogram,wet body mass (point),0.00212,kilogram,0.00212,kilogram (wet body mass),NA,0.00212
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00548,kilogram,wet body mass (point),0.00548,kilogram,0.00548,kilogram (wet body mass),NA,0.00548
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00349,kilogram,wet body mass (point),0.00349,kilogram,0.00349,kilogram (wet body mass),NA,0.00349
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00054,kilogram,wet body mass (point),0.00054,kilogram,0.00054,kilogram (wet body mass),NA,0.00054
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.0025,kilogram,wet body mass (point),0.0025,kilogram,0.0025,kilogram (wet body mass),NA,0.0025
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00396,kilogram,wet body mass (point),0.00396,kilogram,0.00396,kilogram (wet body mass),NA,0.00396
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00262,kilogram,wet body mass (point),0.00262,kilogram,0.00262,kilogram (wet body mass),NA,0.00262
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00343,kilogram,wet body mass (point),0.00343,kilogram,0.00343,kilogram (wet body mass),NA,0.00343
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00477,kilogram,wet body mass (point),0.00477,kilogram,0.00477,kilogram (wet body mass),NA,0.00477
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00346,kilogram,wet body mass (point),0.00346,kilogram,0.00346,kilogram (wet body mass),NA,0.00346
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00526,kilogram,wet body mass (point),0.00526,kilogram,0.00526,kilogram (wet body mass),NA,0.00526
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00341,kilogram,wet body mass (point),0.00341,kilogram,0.00341,kilogram (wet body mass),NA,0.00341
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00513,kilogram,wet body mass (point),0.00513,kilogram,0.00513,kilogram (wet body mass),NA,0.00513
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Rhinichthys osculus,0.00589,kilogram,wet body mass (point),0.00589,kilogram,0.00589,kilogram (wet body mass),NA,0.00589
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Acanthodactylus erythrurus,0.00888,kilogram,wet body mass (mean),0.00888,kilogram,0.00888,kilogram (wet body mass),80,0.00888
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Acanthodactylus erythrurus,0.00888,kilogram,wet body mass (mean),0.00888,kilogram,0.00888,kilogram (wet body mass),80,0.00888
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Acanthodactylus erythrurus,0.00888,kilogram,wet body mass (mean),0.00888,kilogram,0.00888,kilogram (wet body mass),80,0.00888
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Acanthodactylus erythrurus,0.00888,kilogram,wet body mass (mean),0.00888,kilogram,0.00888,kilogram (wet body mass),80,0.00888
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Acanthodactylus erythrurus,0.00888,kilogram,wet body mass (mean),0.00888,kilogram,0.00888,kilogram (wet body mass),80,0.00888
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Acanthodactylus erythrurus,0.00888,kilogram,wet body mass (mean),0.00888,kilogram,0.00888,kilogram (wet body mass),80,0.00888
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Lacerta agilis,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Lacerta agilis,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Lacerta agilis,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Lacerta agilis,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Lacerta agilis,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Lacerta agilis,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Iberolacerta monticola,0.00765,kilogram,wet body mass (mean),0.00765,kilogram,0.00765,kilogram (wet body mass),80,0.00765
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Iberolacerta monticola,0.00765,kilogram,wet body mass (mean),0.00765,kilogram,0.00765,kilogram (wet body mass),80,0.00765
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Iberolacerta monticola,0.00765,kilogram,wet body mass (mean),0.00765,kilogram,0.00765,kilogram (wet body mass),80,0.00765
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Iberolacerta monticola,0.00765,kilogram,wet body mass (mean),0.00765,kilogram,0.00765,kilogram (wet body mass),80,0.00765
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Iberolacerta monticola,0.00765,kilogram,wet body mass (mean),0.00765,kilogram,0.00765,kilogram (wet body mass),80,0.00765
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Iberolacerta monticola,0.00765,kilogram,wet body mass (mean),0.00765,kilogram,0.00765,kilogram (wet body mass),80,0.00765
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Lacerta schreiberi,0.02123,kilogram,wet body mass (mean),0.02123,kilogram,0.02123,kilogram (wet body mass),80,0.02123
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Lacerta schreiberi,0.02123,kilogram,wet body mass (mean),0.02123,kilogram,0.02123,kilogram (wet body mass),80,0.02123
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Lacerta schreiberi,0.02123,kilogram,wet body mass (mean),0.02123,kilogram,0.02123,kilogram (wet body mass),80,0.02123
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Lacerta schreiberi,0.02123,kilogram,wet body mass (mean),0.02123,kilogram,0.02123,kilogram (wet body mass),80,0.02123
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Lacerta schreiberi,0.02123,kilogram,wet body mass (mean),0.02123,kilogram,0.02123,kilogram (wet body mass),80,0.02123
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Lacerta schreiberi,0.02123,kilogram,wet body mass (mean),0.02123,kilogram,0.02123,kilogram (wet body mass),80,0.02123
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis bocagei,0.00333,kilogram,wet body mass (mean),0.00333,kilogram,0.00333,kilogram (wet body mass),80,0.00333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis bocagei,0.00333,kilogram,wet body mass (mean),0.00333,kilogram,0.00333,kilogram (wet body mass),80,0.00333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis bocagei,0.00333,kilogram,wet body mass (mean),0.00333,kilogram,0.00333,kilogram (wet body mass),80,0.00333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis bocagei,0.00333,kilogram,wet body mass (mean),0.00333,kilogram,0.00333,kilogram (wet body mass),80,0.00333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis bocagei,0.00333,kilogram,wet body mass (mean),0.00333,kilogram,0.00333,kilogram (wet body mass),80,0.00333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis bocagei,0.00333,kilogram,wet body mass (mean),0.00333,kilogram,0.00333,kilogram (wet body mass),80,0.00333
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis hispanicus atrata,0.00755,kilogram,wet body mass (mean),0.00755,kilogram,0.00755,kilogram (wet body mass),80,0.00755
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis hispanicus atrata,0.00755,kilogram,wet body mass (mean),0.00755,kilogram,0.00755,kilogram (wet body mass),80,0.00755
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis hispanicus atrata,0.00755,kilogram,wet body mass (mean),0.00755,kilogram,0.00755,kilogram (wet body mass),80,0.00755
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis hispanicus atrata,0.00755,kilogram,wet body mass (mean),0.00755,kilogram,0.00755,kilogram (wet body mass),80,0.00755
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis hispanicus atrata,0.00755,kilogram,wet body mass (mean),0.00755,kilogram,0.00755,kilogram (wet body mass),80,0.00755
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis hispanicus atrata,0.00755,kilogram,wet body mass (mean),0.00755,kilogram,0.00755,kilogram (wet body mass),80,0.00755
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis hispanicus atrata,0.00326,kilogram,wet body mass (mean),0.00326,kilogram,0.00326,kilogram (wet body mass),80,0.00326
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis hispanicus atrata,0.00326,kilogram,wet body mass (mean),0.00326,kilogram,0.00326,kilogram (wet body mass),80,0.00326
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis hispanicus atrata,0.00326,kilogram,wet body mass (mean),0.00326,kilogram,0.00326,kilogram (wet body mass),80,0.00326
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis hispanicus atrata,0.00326,kilogram,wet body mass (mean),0.00326,kilogram,0.00326,kilogram (wet body mass),80,0.00326
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis hispanicus atrata,0.00326,kilogram,wet body mass (mean),0.00326,kilogram,0.00326,kilogram (wet body mass),80,0.00326
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis hispanicus atrata,0.00326,kilogram,wet body mass (mean),0.00326,kilogram,0.00326,kilogram (wet body mass),80,0.00326
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis lilfordi,0.00783,kilogram,wet body mass (mean),0.00783,kilogram,0.00783,kilogram (wet body mass),80,0.00783
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis lilfordi,0.00783,kilogram,wet body mass (mean),0.00783,kilogram,0.00783,kilogram (wet body mass),80,0.00783
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis lilfordi,0.00783,kilogram,wet body mass (mean),0.00783,kilogram,0.00783,kilogram (wet body mass),80,0.00783
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis lilfordi,0.00783,kilogram,wet body mass (mean),0.00783,kilogram,0.00783,kilogram (wet body mass),80,0.00783
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis lilfordi,0.00783,kilogram,wet body mass (mean),0.00783,kilogram,0.00783,kilogram (wet body mass),80,0.00783
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis lilfordi,0.00783,kilogram,wet body mass (mean),0.00783,kilogram,0.00783,kilogram (wet body mass),80,0.00783
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis muralis,0.00478,kilogram,wet body mass (mean),0.00478,kilogram,0.00478,kilogram (wet body mass),80,0.00478
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis muralis,0.00478,kilogram,wet body mass (mean),0.00478,kilogram,0.00478,kilogram (wet body mass),80,0.00478
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis muralis,0.00478,kilogram,wet body mass (mean),0.00478,kilogram,0.00478,kilogram (wet body mass),80,0.00478
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis muralis,0.00478,kilogram,wet body mass (mean),0.00478,kilogram,0.00478,kilogram (wet body mass),80,0.00478
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis muralis,0.00478,kilogram,wet body mass (mean),0.00478,kilogram,0.00478,kilogram (wet body mass),80,0.00478
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Podarcis muralis,0.00478,kilogram,wet body mass (mean),0.00478,kilogram,0.00478,kilogram (wet body mass),80,0.00478
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Psammodromus algirus,0.01104,kilogram,wet body mass (mean),0.01104,kilogram,0.01104,kilogram (wet body mass),80,0.01104
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Psammodromus algirus,0.01104,kilogram,wet body mass (mean),0.01104,kilogram,0.01104,kilogram (wet body mass),80,0.01104
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Psammodromus algirus,0.01104,kilogram,wet body mass (mean),0.01104,kilogram,0.01104,kilogram (wet body mass),80,0.01104
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Psammodromus algirus,0.01104,kilogram,wet body mass (mean),0.01104,kilogram,0.01104,kilogram (wet body mass),80,0.01104
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Psammodromus algirus,0.01104,kilogram,wet body mass (mean),0.01104,kilogram,0.01104,kilogram (wet body mass),80,0.01104
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Psammodromus algirus,0.01104,kilogram,wet body mass (mean),0.01104,kilogram,0.01104,kilogram (wet body mass),80,0.01104
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Psammodromus hispanicus,0.00143,kilogram,wet body mass (mean),0.00143,kilogram,0.00143,kilogram (wet body mass),80,0.00143
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Psammodromus hispanicus,0.00143,kilogram,wet body mass (mean),0.00143,kilogram,0.00143,kilogram (wet body mass),80,0.00143
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Psammodromus hispanicus,0.00143,kilogram,wet body mass (mean),0.00143,kilogram,0.00143,kilogram (wet body mass),80,0.00143
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Psammodromus hispanicus,0.00143,kilogram,wet body mass (mean),0.00143,kilogram,0.00143,kilogram (wet body mass),80,0.00143
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Psammodromus hispanicus,0.00143,kilogram,wet body mass (mean),0.00143,kilogram,0.00143,kilogram (wet body mass),80,0.00143
+Escape Body Velocity,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Psammodromus hispanicus,0.00143,kilogram,wet body mass (mean),0.00143,kilogram,0.00143,kilogram (wet body mass),80,0.00143
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Exodon paradoxus,0.00385,kilogram,wet body mass (point),0.00385,kilogram,0.00385,kilogram (wet body mass),NA,0.00385
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Exodon paradoxus,0.00477,kilogram,wet body mass (point),0.00477,kilogram,0.00477,kilogram (wet body mass),NA,0.00477
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Exodon paradoxus,0.0036,kilogram,wet body mass (point),0.0036,kilogram,0.0036,kilogram (wet body mass),NA,0.0036
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Exodon paradoxus,0.00496,kilogram,wet body mass (point),0.00496,kilogram,0.00496,kilogram (wet body mass),NA,0.00496
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Leporinus fasciatus,0.00395,kilogram,wet body mass (point),0.00395,kilogram,0.00395,kilogram (wet body mass),NA,0.00395
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Leporinus fasciatus,0.0076,kilogram,wet body mass (point),0.0076,kilogram,0.0076,kilogram (wet body mass),NA,0.0076
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Leporinus fasciatus,0.00688,kilogram,wet body mass (point),0.00688,kilogram,0.00688,kilogram (wet body mass),NA,0.00688
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Leporinus fasciatus,0.00614,kilogram,wet body mass (point),0.00614,kilogram,0.00614,kilogram (wet body mass),NA,0.00614
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Oncorhynchus nerka,0.0493,kilogram,wet body mass (point),0.0493,kilogram,0.0493,kilogram (wet body mass),NA,0.0493
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Oncorhynchus nerka,0.0405,kilogram,wet body mass (point),0.0405,kilogram,0.0405,kilogram (wet body mass),NA,0.0405
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Oncorhynchus nerka,0.043,kilogram,wet body mass (point),0.043,kilogram,0.043,kilogram (wet body mass),NA,0.043
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Oncorhynchus nerka,0.0513,kilogram,wet body mass (point),0.0513,kilogram,0.0513,kilogram (wet body mass),NA,0.0513
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Oncorhynchus nerka,0.0441,kilogram,wet body mass (point),0.0441,kilogram,0.0441,kilogram (wet body mass),NA,0.0441
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Oncorhynchus nerka,0.0521,kilogram,wet body mass (point),0.0521,kilogram,0.0521,kilogram (wet body mass),NA,0.0521
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Oncorhynchus nerka,0.0622,kilogram,wet body mass (point),0.0622,kilogram,0.0622,kilogram (wet body mass),NA,0.0622
+Critical Travel Velocity 50%,freshwater,light,NA,,,NA,,NA,,Ptychocheilus lucius,0.0135,meter,body length (mean),3.93436780938019e-06,kilogram,3.93436780938019e-06,kilogram (wet body mass),NA,0.0135
+Critical Travel Velocity 50%,freshwater,light,NA,,,NA,,NA,,Ptychocheilus lucius,0.0135,meter,body length (mean),3.93436780938019e-06,kilogram,3.93436780938019e-06,kilogram (wet body mass),NA,0.0135
+Critical Travel Velocity 50%,freshwater,light,NA,,,NA,,NA,,Ptychocheilus lucius,0.0135,meter,body length (mean),3.93436780938019e-06,kilogram,3.93436780938019e-06,kilogram (wet body mass),NA,0.0135
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.1093,meter,fork length (mean),0.0167541713,kilogram,0.0167541713,kilogram (wet body mass),NA,0.1093
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.1093,meter,fork length (mean),0.0167541713,kilogram,0.0167541713,kilogram (wet body mass),NA,0.1093
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.1093,meter,fork length (mean),0.0167541713,kilogram,0.0167541713,kilogram (wet body mass),NA,0.1093
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Ictalurus punctatus,0.147,meter,body length (mean),0.0877535018,kilogram,0.0877535018,kilogram (wet body mass),NA,0.147
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Ictalurus punctatus,0.147,meter,body length (mean),0.0877535018,kilogram,0.0877535018,kilogram (wet body mass),NA,0.147
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Ictalurus punctatus,0.147,meter,body length (mean),0.0877535018,kilogram,0.0877535018,kilogram (wet body mass),NA,0.147
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Ictalurus punctatus,0.147,meter,body length (mean),0.0877535018,kilogram,0.0877535018,kilogram (wet body mass),NA,0.147
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Ictalurus punctatus,0.147,meter,body length (mean),0.0877535018,kilogram,0.0877535018,kilogram (wet body mass),NA,0.147
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Micropterus salmoides,0.058,meter,body length (mean),0.0018571882,kilogram,0.0018571882,kilogram (wet body mass),NA,0.058
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Micropterus salmoides,0.058,meter,body length (mean),0.0018571882,kilogram,0.0018571882,kilogram (wet body mass),NA,0.058
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Micropterus salmoides,0.058,meter,body length (mean),0.0018571882,kilogram,0.0018571882,kilogram (wet body mass),NA,0.058
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Micropterus salmoides,0.058,meter,body length (mean),0.0018571882,kilogram,0.0018571882,kilogram (wet body mass),NA,0.058
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Micropterus salmoides,0.058,meter,body length (mean),0.0018571882,kilogram,0.0018571882,kilogram (wet body mass),NA,0.058
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Cyprinella spiloptera,0.0795,meter,body length (mean),0.0030668112,kilogram,0.0030668112,kilogram (wet body mass),NA,0.0795
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Cyprinella spiloptera,0.0795,meter,body length (mean),0.0030668112,kilogram,0.0030668112,kilogram (wet body mass),NA,0.0795
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Cyprinella spiloptera,0.0795,meter,body length (mean),0.0030668112,kilogram,0.0030668112,kilogram (wet body mass),NA,0.0795
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Cyprinella spiloptera,0.0795,meter,body length (mean),0.0030668112,kilogram,0.0030668112,kilogram (wet body mass),NA,0.0795
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Cyprinella spiloptera,0.0795,meter,body length (mean),0.0030668112,kilogram,0.0030668112,kilogram (wet body mass),NA,0.0795
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Barbus barbus,0.055,meter,body length (mean),0.0015826875,kilogram,0.0015826875,kilogram (wet body mass),NA,0.055
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Barbus barbus,0.055,meter,body length (mean),0.0015826875,kilogram,0.0015826875,kilogram (wet body mass),NA,0.055
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Barbus barbus,0.055,meter,body length (mean),0.0015826875,kilogram,0.0015826875,kilogram (wet body mass),NA,0.055
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Barbus barbus,0.055,meter,body length (mean),0.0015826875,kilogram,0.0015826875,kilogram (wet body mass),NA,0.055
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Barbus barbus,0.055,meter,body length (mean),0.0015826875,kilogram,0.0015826875,kilogram (wet body mass),NA,0.055
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Barbus barbus,0.055,meter,body length (mean),0.0015826875,kilogram,0.0015826875,kilogram (wet body mass),NA,0.055
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Barbus barbus,0.055,meter,body length (mean),0.0015826875,kilogram,0.0015826875,kilogram (wet body mass),NA,0.055
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Barbus barbus,0.055,meter,body length (mean),0.0015826875,kilogram,0.0015826875,kilogram (wet body mass),NA,0.055
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Puntius schwanenfeldii,0.055,meter,standard length (mean),0.0022885786,kilogram,0.0022885786,kilogram (wet body mass),NA,0.055
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Puntius schwanenfeldii,0.055,meter,standard length (mean),0.0022885786,kilogram,0.0022885786,kilogram (wet body mass),NA,0.055
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Puntius schwanenfeldii,0.055,meter,standard length (mean),0.0022885786,kilogram,0.0022885786,kilogram (wet body mass),NA,0.055
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Puntius schwanenfeldii,0.055,meter,standard length (mean),0.0022885786,kilogram,0.0022885786,kilogram (wet body mass),NA,0.055
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Puntius schwanenfeldii,0.055,meter,standard length (mean),0.0022885786,kilogram,0.0022885786,kilogram (wet body mass),NA,0.055
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Puntius schwanenfeldii,0.055,meter,standard length (mean),0.0022885786,kilogram,0.0022885786,kilogram (wet body mass),NA,0.055
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Puntius schwanenfeldii,0.055,meter,standard length (mean),0.0022885786,kilogram,0.0022885786,kilogram (wet body mass),NA,0.055
+Critical Travel Velocity,freshwater,electric shock,NA,,,NA,,NA,,Puntius schwanenfeldii,0.055,meter,standard length (mean),0.0022885786,kilogram,0.0022885786,kilogram (wet body mass),NA,0.055
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Endurance Time,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Teratoscincus przewalskii,0.00906,kilogram,wet body mass (mean),0.00906,kilogram,0.00906,kilogram (wet body mass),80,0.00906
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Cyprinus carpio,0.0242,kilogram,wet body mass (point),0.0242,kilogram,0.0242,kilogram (wet body mass),NA,0.0242
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Cyprinus carpio,0.0313,kilogram,wet body mass (point),0.0313,kilogram,0.0313,kilogram (wet body mass),NA,0.0313
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Cyprinus carpio,0.0275,kilogram,wet body mass (point),0.0275,kilogram,0.0275,kilogram (wet body mass),NA,0.0275
+Critical Travel Velocity,freshwater,retaining screen,NA,,,NA,,NA,,Cyprinus carpio,0.0278,kilogram,wet body mass (point),0.0278,kilogram,0.0278,kilogram (wet body mass),NA,0.0278
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0227,meter,body length (point),2.58466587777599e-05,kilogram,2.58466587777599e-05,kilogram (wet body mass),NA,0.0227
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0221,meter,body length (point),2.39500645022907e-05,kilogram,2.39500645022907e-05,kilogram (wet body mass),NA,0.0221
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0227,meter,body length (point),2.58466587777599e-05,kilogram,2.58466587777599e-05,kilogram (wet body mass),NA,0.0227
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0215,meter,body length (point),3.6294e-05,kilogram,3.6294e-05,kilogram (wet body mass),NA,0.0215
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0215,meter,body length (point),3.6294e-05,kilogram,3.6294e-05,kilogram (wet body mass),NA,0.0215
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0216,meter,body length (point),3.68640698052103e-05,kilogram,3.68640698052103e-05,kilogram (wet body mass),NA,0.0216
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.022,meter,body length (point),2.36430622067873e-05,kilogram,2.36430622067873e-05,kilogram (wet body mass),NA,0.022
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0223,meter,body length (point),2.45718261103772e-05,kilogram,2.45718261103772e-05,kilogram (wet body mass),NA,0.0223
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0236,meter,body length (point),2.88705991297415e-05,kilogram,2.88705991297415e-05,kilogram (wet body mass),NA,0.0236
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0219,meter,body length (point),3.86127618680737e-05,kilogram,3.86127618680737e-05,kilogram (wet body mass),NA,0.0219
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0232,meter,body length (point),2.74997325965399e-05,kilogram,2.74997325965399e-05,kilogram (wet body mass),NA,0.0232
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0224,meter,body length (point),2.48866055297551e-05,kilogram,2.48866055297551e-05,kilogram (wet body mass),NA,0.0224
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0222,meter,body length (point),2.42596491181257e-05,kilogram,2.42596491181257e-05,kilogram (wet body mass),NA,0.0222
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0225,meter,body length (point),2.5204e-05,kilogram,2.5204e-05,kilogram (wet body mass),NA,0.0225
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0225,meter,body length (point),2.5204e-05,kilogram,2.5204e-05,kilogram (wet body mass),NA,0.0225
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0227,meter,body length (point),2.58466587777599e-05,kilogram,2.58466587777599e-05,kilogram (wet body mass),NA,0.0227
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0227,meter,body length (point),2.58466587777599e-05,kilogram,2.58466587777599e-05,kilogram (wet body mass),NA,0.0227
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.023,meter,body length (point),2.68304951857801e-05,kilogram,2.68304951857801e-05,kilogram (wet body mass),NA,0.023
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0218,meter,body length (point),3.80233827625867e-05,kilogram,3.80233827625867e-05,kilogram (wet body mass),NA,0.0218
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0215,meter,body length (point),3.6294e-05,kilogram,3.6294e-05,kilogram (wet body mass),NA,0.0215
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0216,meter,body length (point),3.68640698052103e-05,kilogram,3.68640698052103e-05,kilogram (wet body mass),NA,0.0216
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0221,meter,body length (point),2.39500645022907e-05,kilogram,2.39500645022907e-05,kilogram (wet body mass),NA,0.0221
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0221,meter,body length (point),2.39500645022907e-05,kilogram,2.39500645022907e-05,kilogram (wet body mass),NA,0.0221
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0223,meter,body length (point),2.45718261103772e-05,kilogram,2.45718261103772e-05,kilogram (wet body mass),NA,0.0223
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0225,meter,body length (point),2.5204e-05,kilogram,2.5204e-05,kilogram (wet body mass),NA,0.0225
+Critical Travel Distance,freshwater,retaining screen,NA,,,NA,,NA,,Ambystoma tigrinum nebolosum,0.00862,kilogram,wet body mass (mean),0.00862,kilogram,0.00862,kilogram (wet body mass),NA,0.00862
+Critical Travel Distance,freshwater,retaining screen,NA,,,NA,,NA,,Ambystoma tigrinum nebolosum,0.00862,kilogram,wet body mass (mean),0.00862,kilogram,0.00862,kilogram (wet body mass),NA,0.00862
+Critical Travel Distance,freshwater,retaining screen,NA,,,NA,,NA,,Ambystoma tigrinum nebolosum,0.00862,kilogram,wet body mass (mean),0.00862,kilogram,0.00862,kilogram (wet body mass),NA,0.00862
+Critical Travel Distance,freshwater,retaining screen,NA,,,NA,,NA,,Ambystoma tigrinum nebolosum,0.00862,kilogram,wet body mass (mean),0.00862,kilogram,0.00862,kilogram (wet body mass),NA,0.00862
+Critical Travel Distance,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Ambystoma tigrinum nebolosum,0.00862,kilogram,wet body mass (mean),0.00862,kilogram,0.00862,kilogram (wet body mass),80,0.00862
+Critical Travel Distance,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Ambystoma tigrinum nebolosum,0.00862,kilogram,wet body mass (mean),0.00862,kilogram,0.00862,kilogram (wet body mass),80,0.00862
+Critical Travel Distance,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Ambystoma tigrinum nebolosum,0.00862,kilogram,wet body mass (mean),0.00862,kilogram,0.00862,kilogram (wet body mass),80,0.00862
+Critical Travel Distance,terrestrial,Homo sapiens,NA,,,80,kilogram,80,kilogram (wet body mass),Ambystoma tigrinum nebolosum,0.00862,kilogram,wet body mass (mean),0.00862,kilogram,0.00862,kilogram (wet body mass),80,0.00862
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0216,meter,body length (point),3.68640698052103e-05,kilogram,3.68640698052103e-05,kilogram (wet body mass),NA,0.0216
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0219,meter,body length (point),3.86127618680737e-05,kilogram,3.86127618680737e-05,kilogram (wet body mass),NA,0.0219
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.021,meter,body length (point),3.3538520522155e-05,kilogram,3.3538520522155e-05,kilogram (wet body mass),NA,0.021
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0219,meter,body length (point),3.86127618680737e-05,kilogram,3.86127618680737e-05,kilogram (wet body mass),NA,0.0219
+Critical Travel Velocity,freshwater,light,NA,,,NA,,NA,,Micropterus dolomieu,0.0218,meter,body length (point),3.80233827625867e-05,kilogram,3.80233827625867e-05,kilogram (wet body mass),NA,0.0218
+Critical Travel Velocity 50%,freshwater,light,NA,,,NA,,NA,,Ptychocheilus lucius,0.0283,meter,body length (mean),5.57601043536934e-05,kilogram,5.57601043536934e-05,kilogram (wet body mass),NA,0.0283
+Critical Travel Velocity 50%,freshwater,light,NA,,,NA,,NA,,Ptychocheilus lucius,0.0283,meter,body length (mean),5.57601043536934e-05,kilogram,5.57601043536934e-05,kilogram (wet body mass),NA,0.0283
+Critical Travel Velocity 50%,freshwater,light,NA,,,NA,,NA,,Ptychocheilus lucius,0.0283,meter,body length (mean),5.57601043536934e-05,kilogram,5.57601043536934e-05,kilogram (wet body mass),NA,0.0283
+Critical Travel Velocity 50%,freshwater,light,NA,,,NA,,NA,,Ptychocheilus lucius,0.02183,meter,body length (mean),2.57264660228171e-05,kilogram,2.57264660228171e-05,kilogram (wet body mass),NA,0.02183
+Critical Travel Velocity 50%,freshwater,light,NA,,,NA,,NA,,Ptychocheilus lucius,0.02183,meter,body length (mean),2.57264660228171e-05,kilogram,2.57264660228171e-05,kilogram (wet body mass),NA,0.02183
+Critical Travel Velocity 50%,freshwater,light,NA,,,NA,,NA,,Ptychocheilus lucius,0.02183,meter,body length (mean),2.57264660228171e-05,kilogram,2.57264660228171e-05,kilogram (wet body mass),NA,0.02183
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.09805,meter,fork length (mean),0.0121436437,kilogram,0.0121436437,kilogram (wet body mass),NA,0.09805
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.09805,meter,fork length (mean),0.0121436437,kilogram,0.0121436437,kilogram (wet body mass),NA,0.09805
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.09805,meter,fork length (mean),0.0121436437,kilogram,0.0121436437,kilogram (wet body mass),NA,0.09805
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.09805,meter,fork length (mean),0.0121436437,kilogram,0.0121436437,kilogram (wet body mass),NA,0.09805
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.09805,meter,fork length (mean),0.0121436437,kilogram,0.0121436437,kilogram (wet body mass),NA,0.09805
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.09805,meter,fork length (mean),0.0121436437,kilogram,0.0121436437,kilogram (wet body mass),NA,0.09805
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.09805,meter,fork length (mean),0.0121436437,kilogram,0.0121436437,kilogram (wet body mass),NA,0.09805
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.0682,meter,fork length (mean),0.0041429216,kilogram,0.0041429216,kilogram (wet body mass),NA,0.0682
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.0682,meter,fork length (mean),0.0041429216,kilogram,0.0041429216,kilogram (wet body mass),NA,0.0682
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.0682,meter,fork length (mean),0.0041429216,kilogram,0.0041429216,kilogram (wet body mass),NA,0.0682
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.0682,meter,fork length (mean),0.0041429216,kilogram,0.0041429216,kilogram (wet body mass),NA,0.0682
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.0682,meter,fork length (mean),0.0041429216,kilogram,0.0041429216,kilogram (wet body mass),NA,0.0682
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.0682,meter,fork length (mean),0.0041429216,kilogram,0.0041429216,kilogram (wet body mass),NA,0.0682
+Critical Holding Velocity,freshwater,electric shock,NA,,,NA,,NA,,Salmo salar,0.0682,meter,fork length (mean),0.0041429216,kilogram,0.0041429216,kilogram (wet body mass),NA,0.0682
+Voluntary Body Velocity,marine,Melanogrammus aeglefinus,0.006,meter,body length (mean),1.61776168393701e-06,kilogram,1.61776168393701e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,0.006,NA
+Voluntary Body Velocity,marine,Melanogrammus aeglefinus,0.006,meter,body length (mean),1.61776168393701e-06,kilogram,1.61776168393701e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,0.006,NA
+Voluntary Body Velocity,marine,Melanogrammus aeglefinus,0.006,meter,body length (mean),1.61776168393701e-06,kilogram,1.61776168393701e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,0.006,NA
+Voluntary Body Velocity,marine,Melanogrammus aeglefinus,0.006,meter,body length (mean),1.61776168393701e-06,kilogram,1.61776168393701e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,0.006,NA
+Voluntary Body Velocity,marine,Melanogrammus aeglefinus,0.006,meter,body length (mean),1.61776168393701e-06,kilogram,1.61776168393701e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,0.006,NA
+Voluntary Body Velocity,marine,Melanogrammus aeglefinus,0.006,meter,body length (mean),1.61776168393701e-06,kilogram,1.61776168393701e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,0.006,NA
+Voluntary Body Velocity,marine,Melanogrammus aeglefinus,0.006,meter,body length (mean),1.61776168393701e-06,kilogram,1.61776168393701e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,0.006,NA
+Voluntary Body Velocity,marine,Melanogrammus aeglefinus,0.006,meter,body length (mean),1.61776168393701e-06,kilogram,1.61776168393701e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,0.006,NA
+Voluntary Body Velocity,marine,Melanogrammus aeglefinus,0.006,meter,body length (mean),1.61776168393701e-06,kilogram,1.61776168393701e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,0.006,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Voluntary Body Velocity,terrestrial,Cataglyphis bicolor,1.75e-05,kilogram,wet body mass (mean),1.75e-05,kilogram,1.75e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.75e-05,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,1e-06,kilogram,wet body mass (point),1e-06,kilogram,1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,1e-06,kilogram,wet body mass (point),1e-06,kilogram,1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,9e-07,kilogram,wet body mass (point),9e-07,kilogram,9e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,9e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,6e-07,kilogram,wet body mass (point),6e-07,kilogram,6e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,6e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,9e-07,kilogram,wet body mass (point),9e-07,kilogram,9e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,9e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,3e-07,kilogram,wet body mass (point),3e-07,kilogram,3e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2.8e-06,kilogram,wet body mass (point),2.8e-06,kilogram,2.8e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.8e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,1.4e-06,kilogram,wet body mass (point),1.4e-06,kilogram,1.4e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.4e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,7e-07,kilogram,wet body mass (point),7e-07,kilogram,7e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,7e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,3.4e-06,kilogram,wet body mass (point),3.4e-06,kilogram,3.4e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3.4e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,4e-07,kilogram,wet body mass (point),4e-07,kilogram,4e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,4e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,9e-07,kilogram,wet body mass (point),9e-07,kilogram,9e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,9e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2e-06,kilogram,wet body mass (point),2e-06,kilogram,2e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,1.2e-06,kilogram,wet body mass (point),1.2e-06,kilogram,1.2e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.2e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2.5e-06,kilogram,wet body mass (point),2.5e-06,kilogram,2.5e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.5e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,5e-07,kilogram,wet body mass (point),5e-07,kilogram,5e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,5e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,8e-07,kilogram,wet body mass (point),8e-07,kilogram,8e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,8e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2.8e-06,kilogram,wet body mass (point),2.8e-06,kilogram,2.8e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.8e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,5e-07,kilogram,wet body mass (point),5e-07,kilogram,5e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,5e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2.4e-06,kilogram,wet body mass (point),2.4e-06,kilogram,2.4e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.4e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2.4e-06,kilogram,wet body mass (point),2.4e-06,kilogram,2.4e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.4e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2.1e-06,kilogram,wet body mass (point),2.1e-06,kilogram,2.1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.1e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,3e-07,kilogram,wet body mass (point),3e-07,kilogram,3e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2.5e-06,kilogram,wet body mass (point),2.5e-06,kilogram,2.5e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.5e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,4e-07,kilogram,wet body mass (point),4e-07,kilogram,4e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,4e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2e-06,kilogram,wet body mass (point),2e-06,kilogram,2e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,6e-06,kilogram,wet body mass (point),6e-06,kilogram,6e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,6e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2.2e-06,kilogram,wet body mass (point),2.2e-06,kilogram,2.2e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.2e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2.2e-06,kilogram,wet body mass (point),2.2e-06,kilogram,2.2e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.2e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2.2e-06,kilogram,wet body mass (point),2.2e-06,kilogram,2.2e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.2e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,1.1e-06,kilogram,wet body mass (point),1.1e-06,kilogram,1.1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.1e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,1e-06,kilogram,wet body mass (point),1e-06,kilogram,1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,4e-07,kilogram,wet body mass (point),4e-07,kilogram,4e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,4e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2.8e-06,kilogram,wet body mass (point),2.8e-06,kilogram,2.8e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.8e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,9e-07,kilogram,wet body mass (point),9e-07,kilogram,9e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,9e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,8e-07,kilogram,wet body mass (point),8e-07,kilogram,8e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,8e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2.2e-06,kilogram,wet body mass (point),2.2e-06,kilogram,2.2e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.2e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,5e-07,kilogram,wet body mass (point),5e-07,kilogram,5e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,5e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,5e-07,kilogram,wet body mass (point),5e-07,kilogram,5e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,5e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,3e-07,kilogram,wet body mass (point),3e-07,kilogram,3e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3e-07,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,1e-06,kilogram,wet body mass (point),1e-06,kilogram,1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,3.1e-06,kilogram,wet body mass (point),3.1e-06,kilogram,3.1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3.1e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,1.6e-06,kilogram,wet body mass (point),1.6e-06,kilogram,1.6e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.6e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2e-06,kilogram,wet body mass (point),2e-06,kilogram,2e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,3.6e-06,kilogram,wet body mass (point),3.6e-06,kilogram,3.6e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3.6e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2.1e-06,kilogram,wet body mass (point),2.1e-06,kilogram,2.1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.1e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2.4e-06,kilogram,wet body mass (point),2.4e-06,kilogram,2.4e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.4e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,2.5e-06,kilogram,wet body mass (point),2.5e-06,kilogram,2.5e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.5e-06,NA
+Foraging Velocity,terrestrial,Acromyrmex versicolor,7e-07,kilogram,wet body mass (point),7e-07,kilogram,7e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,7e-07,NA
+Foraging Velocity,terrestrial,Atta colombica,9e-07,kilogram,wet body mass (point),9e-07,kilogram,9e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,9e-07,NA
+Foraging Velocity,terrestrial,Atta colombica,1.2e-06,kilogram,wet body mass (point),1.2e-06,kilogram,1.2e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.2e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,3.1e-06,kilogram,wet body mass (point),3.1e-06,kilogram,3.1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3.1e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,1.38e-05,kilogram,wet body mass (point),1.38e-05,kilogram,1.38e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.38e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,1.19e-05,kilogram,wet body mass (point),1.19e-05,kilogram,1.19e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.19e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,1.7e-06,kilogram,wet body mass (point),1.7e-06,kilogram,1.7e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.7e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,5e-07,kilogram,wet body mass (point),5e-07,kilogram,5e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,5e-07,NA
+Foraging Velocity,terrestrial,Atta colombica,8e-07,kilogram,wet body mass (point),8e-07,kilogram,8e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,8e-07,NA
+Foraging Velocity,terrestrial,Atta colombica,9e-07,kilogram,wet body mass (point),9e-07,kilogram,9e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,9e-07,NA
+Foraging Velocity,terrestrial,Atta colombica,8e-07,kilogram,wet body mass (point),8e-07,kilogram,8e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,8e-07,NA
+Foraging Velocity,terrestrial,Atta colombica,1e-06,kilogram,wet body mass (point),1e-06,kilogram,1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,1e-06,kilogram,wet body mass (point),1e-06,kilogram,1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,1.7e-06,kilogram,wet body mass (point),1.7e-06,kilogram,1.7e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.7e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,2.3e-06,kilogram,wet body mass (point),2.3e-06,kilogram,2.3e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.3e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,3e-06,kilogram,wet body mass (point),3e-06,kilogram,3e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,6.8e-06,kilogram,wet body mass (point),6.8e-06,kilogram,6.8e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,6.8e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,3.6e-05,kilogram,wet body mass (point),3.6e-05,kilogram,3.6e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3.6e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,1.13e-05,kilogram,wet body mass (point),1.13e-05,kilogram,1.13e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.13e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,1.29e-05,kilogram,wet body mass (point),1.29e-05,kilogram,1.29e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.29e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,1.15e-05,kilogram,wet body mass (point),1.15e-05,kilogram,1.15e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.15e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,1.11e-05,kilogram,wet body mass (point),1.11e-05,kilogram,1.11e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.11e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,9.1e-06,kilogram,wet body mass (point),9.1e-06,kilogram,9.1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,9.1e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,2.8e-06,kilogram,wet body mass (point),2.8e-06,kilogram,2.8e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.8e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,2.65e-05,kilogram,wet body mass (point),2.65e-05,kilogram,2.65e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.65e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,4.9e-06,kilogram,wet body mass (point),4.9e-06,kilogram,4.9e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,4.9e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,3.3e-06,kilogram,wet body mass (point),3.3e-06,kilogram,3.3e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3.3e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,6.1e-06,kilogram,wet body mass (point),6.1e-06,kilogram,6.1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,6.1e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,8e-07,kilogram,wet body mass (point),8e-07,kilogram,8e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,8e-07,NA
+Foraging Velocity,terrestrial,Atta colombica,7e-07,kilogram,wet body mass (point),7e-07,kilogram,7e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,7e-07,NA
+Foraging Velocity,terrestrial,Atta colombica,1.29e-05,kilogram,wet body mass (point),1.29e-05,kilogram,1.29e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.29e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,4.1e-06,kilogram,wet body mass (point),4.1e-06,kilogram,4.1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,4.1e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,1.09e-05,kilogram,wet body mass (point),1.09e-05,kilogram,1.09e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.09e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,3.7e-06,kilogram,wet body mass (point),3.7e-06,kilogram,3.7e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3.7e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,1.06e-05,kilogram,wet body mass (point),1.06e-05,kilogram,1.06e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.06e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,9e-07,kilogram,wet body mass (point),9e-07,kilogram,9e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,9e-07,NA
+Foraging Velocity,terrestrial,Atta colombica,2.5e-06,kilogram,wet body mass (point),2.5e-06,kilogram,2.5e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.5e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,2.1e-06,kilogram,wet body mass (point),2.1e-06,kilogram,2.1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.1e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,1.9e-06,kilogram,wet body mass (point),1.9e-06,kilogram,1.9e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.9e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,3.2e-06,kilogram,wet body mass (point),3.2e-06,kilogram,3.2e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3.2e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,6e-06,kilogram,wet body mass (point),6e-06,kilogram,6e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,6e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,1.94e-05,kilogram,wet body mass (point),1.94e-05,kilogram,1.94e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.94e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,6e-06,kilogram,wet body mass (point),6e-06,kilogram,6e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,6e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,7e-07,kilogram,wet body mass (point),7e-07,kilogram,7e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,7e-07,NA
+Foraging Velocity,terrestrial,Atta colombica,1.3e-06,kilogram,wet body mass (point),1.3e-06,kilogram,1.3e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.3e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,3.8e-06,kilogram,wet body mass (point),3.8e-06,kilogram,3.8e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3.8e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,2.9e-06,kilogram,wet body mass (point),2.9e-06,kilogram,2.9e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.9e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,7.6e-06,kilogram,wet body mass (point),7.6e-06,kilogram,7.6e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,7.6e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,4.6e-06,kilogram,wet body mass (point),4.6e-06,kilogram,4.6e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,4.6e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,6.9e-06,kilogram,wet body mass (point),6.9e-06,kilogram,6.9e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,6.9e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,2.63e-05,kilogram,wet body mass (point),2.63e-05,kilogram,2.63e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.63e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,3.29e-05,kilogram,wet body mass (point),3.29e-05,kilogram,3.29e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3.29e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,2.74e-05,kilogram,wet body mass (point),2.74e-05,kilogram,2.74e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.74e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,1.67e-05,kilogram,wet body mass (point),1.67e-05,kilogram,1.67e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.67e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,8e-07,kilogram,wet body mass (point),8e-07,kilogram,8e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,8e-07,NA
+Foraging Velocity,terrestrial,Atta colombica,9e-07,kilogram,wet body mass (point),9e-07,kilogram,9e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,9e-07,NA
+Foraging Velocity,terrestrial,Atta colombica,3.42e-05,kilogram,wet body mass (point),3.42e-05,kilogram,3.42e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3.42e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,1.1e-06,kilogram,wet body mass (point),1.1e-06,kilogram,1.1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.1e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,1.5e-06,kilogram,wet body mass (point),1.5e-06,kilogram,1.5e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.5e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,2.9e-06,kilogram,wet body mass (point),2.9e-06,kilogram,2.9e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,2.9e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,1.9e-06,kilogram,wet body mass (point),1.9e-06,kilogram,1.9e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.9e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,1.56e-05,kilogram,wet body mass (point),1.56e-05,kilogram,1.56e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.56e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,8e-07,kilogram,wet body mass (point),8e-07,kilogram,8e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,8e-07,NA
+Foraging Velocity,terrestrial,Atta colombica,3.6e-06,kilogram,wet body mass (point),3.6e-06,kilogram,3.6e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3.6e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,7e-07,kilogram,wet body mass (point),7e-07,kilogram,7e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,7e-07,NA
+Foraging Velocity,terrestrial,Atta colombica,1.7e-06,kilogram,wet body mass (point),1.7e-06,kilogram,1.7e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.7e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,4.9e-06,kilogram,wet body mass (point),4.9e-06,kilogram,4.9e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,4.9e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,4.9e-06,kilogram,wet body mass (point),4.9e-06,kilogram,4.9e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,4.9e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,4.5e-06,kilogram,wet body mass (point),4.5e-06,kilogram,4.5e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,4.5e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,7e-07,kilogram,wet body mass (point),7e-07,kilogram,7e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,7e-07,NA
+Foraging Velocity,terrestrial,Atta colombica,1.4e-06,kilogram,wet body mass (point),1.4e-06,kilogram,1.4e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.4e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,3.1e-06,kilogram,wet body mass (point),3.1e-06,kilogram,3.1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3.1e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,4e-06,kilogram,wet body mass (point),4e-06,kilogram,4e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,4e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,4.8e-06,kilogram,wet body mass (point),4.8e-06,kilogram,4.8e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,4.8e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,1.34e-05,kilogram,wet body mass (point),1.34e-05,kilogram,1.34e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.34e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,1.03e-05,kilogram,wet body mass (point),1.03e-05,kilogram,1.03e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.03e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,1.67e-05,kilogram,wet body mass (point),1.67e-05,kilogram,1.67e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.67e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,1.45e-05,kilogram,wet body mass (point),1.45e-05,kilogram,1.45e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.45e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,3.5e-05,kilogram,wet body mass (point),3.5e-05,kilogram,3.5e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3.5e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,1.8e-06,kilogram,wet body mass (point),1.8e-06,kilogram,1.8e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.8e-06,NA
+Foraging Velocity,terrestrial,Atta colombica,1.7e-05,kilogram,wet body mass (point),1.7e-05,kilogram,1.7e-05,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.7e-05,NA
+Foraging Velocity,terrestrial,Atta colombica,1e-06,kilogram,wet body mass (point),1e-06,kilogram,1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1e-06,NA
+Foraging Velocity,terrestrial,Messor pergandei,8e-07,kilogram,wet body mass (point),8e-07,kilogram,8e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,8e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,8e-07,kilogram,wet body mass (point),8e-07,kilogram,8e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,8e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,5e-07,kilogram,wet body mass (point),5e-07,kilogram,5e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,5e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,7e-07,kilogram,wet body mass (point),7e-07,kilogram,7e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,7e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,1.4e-06,kilogram,wet body mass (point),1.4e-06,kilogram,1.4e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.4e-06,NA
+Foraging Velocity,terrestrial,Messor pergandei,1e-06,kilogram,wet body mass (point),1e-06,kilogram,1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1e-06,NA
+Foraging Velocity,terrestrial,Messor pergandei,6e-07,kilogram,wet body mass (point),6e-07,kilogram,6e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,6e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,3e-07,kilogram,wet body mass (point),3e-07,kilogram,3e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,3e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,7e-07,kilogram,wet body mass (point),7e-07,kilogram,7e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,7e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,1.1e-06,kilogram,wet body mass (point),1.1e-06,kilogram,1.1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.1e-06,NA
+Foraging Velocity,terrestrial,Messor pergandei,7e-07,kilogram,wet body mass (point),7e-07,kilogram,7e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,7e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,5e-07,kilogram,wet body mass (point),5e-07,kilogram,5e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,5e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,1.5e-06,kilogram,wet body mass (point),1.5e-06,kilogram,1.5e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.5e-06,NA
+Foraging Velocity,terrestrial,Messor pergandei,1.7e-06,kilogram,wet body mass (point),1.7e-06,kilogram,1.7e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.7e-06,NA
+Foraging Velocity,terrestrial,Messor pergandei,5e-07,kilogram,wet body mass (point),5e-07,kilogram,5e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,5e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,1.2e-06,kilogram,wet body mass (point),1.2e-06,kilogram,1.2e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.2e-06,NA
+Foraging Velocity,terrestrial,Messor pergandei,6e-07,kilogram,wet body mass (point),6e-07,kilogram,6e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,6e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,1.3e-06,kilogram,wet body mass (point),1.3e-06,kilogram,1.3e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.3e-06,NA
+Foraging Velocity,terrestrial,Messor pergandei,7e-07,kilogram,wet body mass (point),7e-07,kilogram,7e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,7e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,6e-07,kilogram,wet body mass (point),6e-07,kilogram,6e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,6e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,1.4e-06,kilogram,wet body mass (point),1.4e-06,kilogram,1.4e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.4e-06,NA
+Foraging Velocity,terrestrial,Messor pergandei,5e-07,kilogram,wet body mass (point),5e-07,kilogram,5e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,5e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,6e-07,kilogram,wet body mass (point),6e-07,kilogram,6e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,6e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,1.8e-06,kilogram,wet body mass (point),1.8e-06,kilogram,1.8e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.8e-06,NA
+Foraging Velocity,terrestrial,Messor pergandei,1.3e-06,kilogram,wet body mass (point),1.3e-06,kilogram,1.3e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.3e-06,NA
+Foraging Velocity,terrestrial,Messor pergandei,7e-07,kilogram,wet body mass (point),7e-07,kilogram,7e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,7e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,7e-07,kilogram,wet body mass (point),7e-07,kilogram,7e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,7e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,1.9e-06,kilogram,wet body mass (point),1.9e-06,kilogram,1.9e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1.9e-06,NA
+Foraging Velocity,terrestrial,Messor pergandei,1e-06,kilogram,wet body mass (point),1e-06,kilogram,1e-06,kilogram (wet body mass),,NA,,not stated,NA,,NA,,1e-06,NA
+Foraging Velocity,terrestrial,Messor pergandei,9e-07,kilogram,wet body mass (point),9e-07,kilogram,9e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,9e-07,NA
+Foraging Velocity,terrestrial,Messor pergandei,6e-07,kilogram,wet body mass (point),6e-07,kilogram,6e-07,kilogram (wet body mass),,NA,,not stated,NA,,NA,,6e-07,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus kisutch,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA
+Ucrit,freshwater,Oncorhynchus nerka,NA,,,NA,,NA,,,NA,,,NA,,NA,,NA,NA

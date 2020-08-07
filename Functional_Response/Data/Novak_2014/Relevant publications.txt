@@ -1,0 +1,9 @@
+Relevant publications:
+Theory behind the observational approach:
+Novak M. & Wootton J.T. (2008). Estimating nonlinear interaction strengths: an observation-based method for species-rich food webs. Ecology, 89, 2083-2089.
+
+Experimental test of the observational approach (includes data on Haustrum scobina for the two NW coast sites):
+Novak M. (2010). Estimating interaction strengths in nature: experimental support for an observational approach. Ecology, 91, 2394-2405.
+
+Comparison of feeding rate estimates from the observational approach to stable isotope inferences:
+Yeakel J.D., Novak M., Guimarães P.R., Jr., Dominy N.J., Koch P.L., Ward E.J., Moore J.W. & Semmens B.X. (2011). Merging Resource Availability with Isotope Mixing Models: The Role of Neutral Interaction Assumptions. PLoS ONE, 6, e22015.

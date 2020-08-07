@@ -1,0 +1,205 @@
+ecosystem.type,predator.species,PredatorMass,prey.species,PreyMass,attack.rate,handling.time
+freshwater,Brachydanio rerio,0.00122086,Daphnia magna,1.29858e-07,4.78913360295452e-07,94.1112541313754
+freshwater,Brachydanio rerio,0.00122086,Daphnia magna,1.29858e-07,4.87114164256902e-07,170.006562240382
+freshwater,Ranatra dispar,0.00150553,Anisops deanei,1.2674e-05,3e-08,710.115906581111
+freshwater,Ranatra dispar,0.00150553,Anisops deanei,1.2674e-05,4.99999379000016e-08,195.992032550708
+freshwater,Ranatra dispar,0.00150553,Anisops deanei,1.2674e-05,8.00000437760331e-08,215.875064627436
+freshwater,Ranatra dispar,0.00150553,Anisops deanei,1.2674e-05,1.10000028116029e-07,201.672873907651
+marine,Salvelinus namaycush,0.004025,Daphnia pullicaria,1.71891e-07,2.51985358802816e-07,5534.12692632659
+marine,Neomysis integer,9.1871e-06,Polyphemus pediculus,1.89581e-08,3.77778648179338e-07,9114.83279054574
+marine,Neomysis integer,9.1871e-06,Polyphemus pediculus,1.89581e-08,1.72222206722225e-07,8545.15943264362
+marine,Pomatomus saltatrix,0.140407,Menidia menidia,0.0100867,0.000196087485968028,0.0546779685736822
+marine,Pomatomus saltatrix,0.0259642,Menidia menidia,0.00200239,0.000411334040421896,0.447125320667795
+marine,Pomatomus saltatrix,0.136734,Morone saxatilis,0.0103546,0.000403310264821186,0.159650720796961
+marine,Pomatomus saltatrix,0.0299838,Morone saxatilis,0.00177724,0.000352473013183491,0.301208864766194
+freshwater,Piona exigua,6.76984e-08,Ceriodaphnia dubia,3.775e-09,1.97917377385628e-09,1826409.87769948
+freshwater,Piona exigua,1.95856e-07,Ceriodaphnia dubia,3.775e-09,6.20368831456628e-09,1478529.07795415
+freshwater,Piona exigua,3.82959e-07,Ceriodaphnia dubia,3.775e-09,4.76851507603078e-09,645425.415058562
+freshwater,Piona exigua,6.76984e-08,Ceriodaphnia dubia,3.775e-09,1.11111141319123e-09,3240858.72450269
+freshwater,Piona exigua,3.82959e-07,Ceriodaphnia dubia,3.775e-09,2.11805733091007e-09,1453350.06090808
+freshwater,Piona exigua,6.76984e-08,Ceriodaphnia dubia,3.775e-09,1.85185286162973e-09,1950007.08340073
+freshwater,Piona exigua,6.76984e-08,Ceriodaphnia dubia,3.775e-09,2.78935106246573e-09,1295427.44231551
+freshwater,Piona exigua,6.76984e-08,Ceriodaphnia dubia,3.775e-09,2.18170622792967e-09,1611278.69304674
+freshwater,Piona exigua,3.82959e-07,Ceriodaphnia dubia,3.775e-09,4.54861232286148e-09,677467.577417946
+freshwater,Piona exigua,3.82959e-07,Ceriodaphnia dubia,3.775e-09,6.37730696689539e-09,480636.096881145
+freshwater,Piona exigua,3.82959e-07,Ceriodaphnia dubia,3.775e-09,8.71528965740441e-09,1405286.18776176
+freshwater,Piona exigua,3.82959e-07,Chydorus sphaericus,3.68766e-09,9.28238370392042e-09,267096.116752
+freshwater,Piona exigua,6.76984e-08,Chydorus sphaericus,3.68766e-09,2.70832058229481e-09,2357015.85792962
+freshwater,Piona exigua,6.76984e-08,Chydorus sphaericus,3.68766e-09,4.28241758241758e-09,2108651.36705627
+freshwater,Piona exigua,6.76984e-08,Chydorus sphaericus,3.68766e-09,9.31713478518211e-09,1775958.62556521
+freshwater,Piona exigua,3.82959e-07,Chydorus sphaericus,3.68766e-09,6.00695637714096e-09,417044.878734728
+freshwater,Piona exigua,6.76984e-08,Chydorus sphaericus,3.68766e-09,3.65739582514302e-09,1766587.23961123
+freshwater,Piona exigua,3.82959e-07,Chydorus sphaericus,3.68766e-09,4.31712004855556e-09,529506.693563908
+freshwater,Piona exigua,3.82959e-07,Chydorus sphaericus,3.68766e-09,3.48379432349371e-09,670083.309746776
+freshwater,Piona exigua,1.95856e-07,Chydorus sphaericus,3.68766e-09,5.28936205605922e-09,1705662.00871028
+freshwater,Piona exigua,6.76984e-08,Chydorus sphaericus,3.68766e-09,3.47106993866679e-09,2624101.74622415
+freshwater,Piona exigua,1.95856e-07,Chydorus sphaericus,3.68766e-09,5.40510437202417e-09,1785324.1762501
+freshwater,Piona exigua,3.82959e-07,Chydorus sphaericus,3.68766e-09,6.00695326097009e-09,379557.777328827
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,3.60006e-08,9.83795491063294e-09,584630.494280059
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,3.60006e-08,8.73844696809545e-09,134397.691225715
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,6.40621e-08,7.6967909834849e-09,100342.321355333
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,3.60006e-08,1.92360877231214e-08,71518.7615155068
+freshwater,Piona exigua,1.95856e-07,Daphnia carinata,3.60006e-08,6.38888106887679e-09,244796.598448332
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,3.60006e-08,1.55902784378082e-09,376313.972413583
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,3.60006e-08,3.3796402889903e-09,199196.216645254
+freshwater,Piona exigua,1.95856e-07,Daphnia carinata,3.60006e-08,2.45370431312505e-09,392153.279589833
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,1.29858e-07,9.17821622384959e-09,42315.8292972804
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,2.20127e-07,5.90275201218939e-09,38072.6792858115
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,1.29858e-07,8.72683925727344e-09,43646.4584330554
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,2.20127e-07,6.50463464547972e-09,186830.188909166
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,2.20127e-07,5.59026497158321e-09,36110.1076458251
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,3.60006e-08,1.6550942864158e-09,407993.132223274
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,3.60006e-08,8.56481490423151e-10,626389.7211311
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,3.60006e-08,1.97800819595983e-08,72478.8839117612
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,1.29858e-07,2.36111293657333e-09,164871.856159052
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,2.20127e-07,8.02083656733298e-09,25120.0314765851
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,2.20127e-07,7.48843971213638e-09,27475.034427515
+freshwater,Piona exigua,1.95856e-07,Daphnia carinata,1.29858e-07,2.66204096902046e-09,146242.197134636
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,3.60006e-08,1.74537224699365e-08,67198.8456128574
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,3.60006e-08,1.84953402237062e-08,69358.8426653817
+freshwater,Enallagma aspersum,3.7909e-05,Diaptomus spatulocrenatus,1.5e-08,3.34578373917787e-08,139345.535821905
+freshwater,Enallagma aspersum,3.7909e-05,Simocephalus serrulatus,2.025e-08,7.95206636207192e-08,76498.3053712903
+freshwater,Celithemis fasciata,0.000236209,Daphnia magna,1.71227e-07,8.88887879111467e-09,1492.75640168056
+marine,Calliopius laeviusculus,3.91057e-06,Mallotus vilosus,8e-08,1.87405871605374e-11,20277.3618665555
+marine,Calliopius laeviusculus,3.91057e-06,Mallotus vilosus,8e-08,2.77107613411657e-11,32673.5882395993
+marine,Calliopius laeviusculus,3.3778e-06,Mallotus vilosus,8e-08,8.75637486301947e-12,75209.2320836567
+freshwater,Notonecta hoffmanni,2.1e-05,Culex quinquefasciatus,9e-07,2.13889136786111e-06,759.999118401023
+freshwater,Notonecta hoffmanni,2.1e-05,Culex quinquefasciatus,9e-07,1.0833345033345e-06,719.999942400004
+freshwater,Notonecta hoffmanni,1.7e-05,Culex quinquefasciatus,9e-07,1.72222096844474e-06,1120.00055552028
+freshwater,Notonecta hoffmanni,1.7e-05,Culex quinquefasciatus,9e-07,8.61113474007656e-07,1120.00055552028
+freshwater,Notonecta hoffmanni,1.7e-05,Culex quinquefasciatus,9e-07,4.44443859556772e-07,1879.9985636811
+freshwater,Notonecta hoffmanni,2.1e-05,Culex quinquefasciatus,9e-07,8.33331093340501e-07,1279.99934464034
+freshwater,Sander vitreus,0.000694201,Chironomidae,7.05622e-05,0.000817197652677761,6.42072740404041
+freshwater,Sander vitreus,0.0019364,Chironomidae,7.05622e-05,0.000977400001317144,3.18300715428942
+freshwater,Sander vitreus,0.00400951,Chironomidae,7.05622e-05,0.00028080034880632,1.457295605712
+freshwater,Sander vitreus,0.00705137,Chironomidae,7.05622e-05,0.000203399978439161,0.577789028509366
+freshwater,Sander vitreus,0.0111841,Chironomidae,7.05622e-05,0.000273601004749009,0.406591051414473
+freshwater,Sander vitreus,0.0165187,Chironomidae,7.05622e-05,0.000205199755119774,0.340975433163118
+freshwater,Sander vitreus,0.0231578,Chironomidae,7.05622e-05,6.49801016750847e-05,0.179699506158318
+freshwater,Sander vitreus,0.031197,Chironomidae,7.05622e-05,0.000201599485025902,0.43096754744638
+freshwater,Sander vitreus,0.0407267,Chironomidae,7.05622e-05,0.000196199926306113,0.268840889721142
+freshwater,Sander vitreus,0.113603,Chironomidae,7.05622e-05,8.76600008103638e-05,0.297751378958745
+freshwater,Sander vitreus,0.000694201,Lepomis macrochirus,2.64848e-05,0.000117300345365078,16.396559878855
+freshwater,Sander vitreus,0.000694201,Daphnia spp.,1.13308e-07,1.06589857269065e-05,335.546183776592
+freshwater,Sander vitreus,0.0019364,Daphnia spp.,1.13308e-07,4.2330014135822e-05,241.377294897685
+freshwater,Sander vitreus,0.00400951,Daphnia spp.,1.13308e-07,4.43700790201782e-05,141.472871953473
+freshwater,Sander vitreus,0.00705137,Daphnia spp.,1.13308e-07,7.80300387733663e-05,114.025459771956
+freshwater,Sander vitreus,0.0111841,Daphnia spp.,1.13308e-07,1.8309003479955e-05,82.9597038161505
+freshwater,Sander vitreus,0.0165187,Daphnia spp.,1.13308e-07,1.55040023623622e-05,90.3730959607679
+freshwater,Sander vitreus,0.0231578,Daphnia spp.,1.13308e-07,2.27460200197002e-05,129.117096633689
+freshwater,Sander vitreus,0.031197,Daphnia spp.,1.13308e-07,7.34400702747026e-06,200.691799757899
+freshwater,Sander vitreus,0.0407267,Daphnia spp.,1.13308e-07,1.57590186012649e-05,130.264368797275
+freshwater,Sander vitreus,0.113603,Daphnia spp.,1.13308e-07,5.1000086893915e-07,10740.6320500157
+freshwater,Sander vitreus,0.00400951,Lepomis macrochirus,0.000152969,4.24320145123131e-05,0.841804977449492
+freshwater,Sander vitreus,0.00705137,Lepomis macrochirus,0.00026902,0.000698702513852585,2.2834300310388
+freshwater,Sander vitreus,0.0111841,Lepomis macrochirus,0.000426691,6.9870180859145e-05,0.954295578994964
+freshwater,Sander vitreus,0.0165187,Lepomis macrochirus,0.000630215,7.49699392202677e-05,0.535785219257087
+freshwater,Sander vitreus,0.0231578,Lepomis macrochirus,0.000883504,5.71202323902055e-05,0.0813010378273122
+freshwater,Sander vitreus,0.031197,Lepomis macrochirus,0.00119021,6.22200355990927e-05,0.164853267486597
+freshwater,Sander vitreus,0.0407267,Lepomis macrochirus,0.00155378,8.05799449953782e-05,0.182291175894198
+freshwater,Sander vitreus,0.113603,Lepomis macrochirus,0.00433413,2.21849774726667e-05,0.0516620419992829
+freshwater,Celithemis fasciata,0.000236209,Chironomus tentans,4.86727e-05,7.777779395556e-09,3.84609877777072
+freshwater,Celithemis fasciata,0.000236209,Chironomus tentans,4.86727e-05,5.27777245777667e-09,5.32537367328263
+freshwater,Celithemis fasciata,0.000236209,Chironomus tentans,4.86727e-05,1.38888780000196e-09,7.24840909905479
+freshwater,Celithemis fasciata,0.000236209,Chironomus tentans,4.86727e-05,5.0000072900006e-09,5.99102985367469
+marine,Achirus lineatus,4e-08,Different copepods,6e-10,2.77778e-10,299999.760000192
+marine,Achirus lineatus,4e-07,Different copepods,1.16e-09,6.66664482674704e-09,121034.433860709
+marine,Achirus lineatus,2e-07,Different copepods,1.16e-09,3.61111501111501e-09,139655.16124138
+marine,Achirus lineatus,8e-07,Different copepods,1.16e-09,1.11111096444449e-08,102413.773849659
+marine,Achirus lineatus,6e-08,Different copepods,6e-10,5.55556177777529e-10,83999.8723201941
+marine,Achirus lineatus,8e-08,Different copepods,6e-10,1.11111795557746e-09,131999.609281157
+marine,Anchoa mitchilli,8e-07,Different copepods,1.16e-09,2.49999662500118e-08,46551.7706897017
+marine,Anchoa mitchilli,2e-07,Different copepods,6e-10,7.49997975003442e-09,90000.09000009
+marine,Anchoa mitchilli,8e-08,Different copepods,6e-10,2.2222314666711e-09,155999.425922113
+marine,Anchoa mitchilli,6e-08,Different copepods,6e-10,1.3888896e-09,191999.90169605
+marine,Anchoa mitchilli,4e-07,Different copepods,1.16e-09,1.44444629333422e-08,62068.9158621087
+marine,Anchoa mitchilli,4e-08,Different copepods,6e-10,5.55556155556156e-10,269999.978400002
+marine,Archosargus rhomboidalis,8e-07,Different copepods,1.16e-09,8.61111171388953e-09,21724.1596551941
+marine,Archosargus rhomboidalis,4e-08,Different copepods,6e-10,2.77777650000115e-10,137999.939280027
+marine,Archosargus rhomboidalis,6e-08,Different copepods,6e-10,1.11111188444531e-09,348000.147552063
+marine,Archosargus rhomboidalis,4e-07,Different copepods,1.16e-09,6.9444623611559e-09,93103.4408275868
+marine,Archosargus rhomboidalis,2e-07,Different copepods,6e-10,4.44445191112306e-09,179999.985600001
+marine,Archosargus rhomboidalis,8e-08,Different copepods,6e-10,1.66666558666675e-09,324000.184032105
+freshwater,Oncorhynchus nerka,0.00541,Daphnia spp.,1.11862e-07,6.43333742493266e-05,3.21824848474219
+freshwater,Perca ﬂuviatilis,0.00856713,Neomysis integer,2.6e-05,0.000219999918687949,3.55384970769586
+freshwater,Perca ﬂuviatilis,0.00856713,Neomysis integer,2.6e-05,8.00000887201235e-05,4.2653858224888
+freshwater,Sander lucioperca,0.00982296,Neomysis integer,2.6e-05,5.99997953405874e-05,4.37307928891282
+freshwater,Sander lucioperca,0.00982296,Neomysis integer,2.6e-05,6.99998462803692e-05,4.22307605312326
+freshwater,Dugesia tigrina,2.5e-06,Aedes aegypti,1.07698e-06,2.69386210402248e-09,4813.46571315314
+freshwater,Dugesia tigrina,2.5e-06,Aedes aegypti,1.98902e-05,3.03819566534285e-10,2041.60756137407
+freshwater,Dugesia tigrina,2.5e-06,Daphnia magna,1.22189e-07,8.1018711018711e-10,77781.0353019829
+freshwater,Dugesia tigrina,2.5e-06,Daphnia magna,3.75082e-07,1.23553396640445e-09,82925.8817374275
+freshwater,Alosa pseudoharengus,0.000694201,Artemia spp. nauplii,7.2011e-07,2.79999611359949e-06,4.81871557735348
+freshwater,Alosa pseudoharengus,0.0019364,Artemia spp. nauplii,7.2011e-07,2.09999149920721e-06,1.22203943287694
+freshwater,Alosa pseudoharengus,0.00400951,Artemia spp. nauplii,7.2011e-07,5.39998781762992e-05,1.30535586507622
+freshwater,Alosa pseudoharengus,0.000120193,Artemia spp. nauplii,7.2011e-07,2.85000132513516e-08,80.7098030864032
+freshwater,Coregonus hoyi,0.000694201,Artemia spp. nauplii,7.2011e-07,1.50000478500952e-05,4.42987345267333
+freshwater,Coregonus hoyi,0.0019364,Artemia spp. nauplii,7.2011e-07,2.4e-05,1.93026188998982
+freshwater,Coregonus hoyi,0.00400951,Artemia spp. nauplii,7.2011e-07,6.29999966547017e-05,0.737387019149995
+freshwater,Coregonus hoyi,0.000120193,Artemia spp. nauplii,7.2011e-07,2.39999715816247e-07,164.433263504255
+freshwater,Coregonus hoyi,0.000335266,Artemia spp. nauplii,7.2011e-07,3.90000351175598e-06,54.3666602699797
+freshwater,Perca flavescens,0.000694201,Artemia spp. nauplii,7.2011e-07,1.10000164010094e-06,2.95787871353238
+freshwater,Perca flavescens,0.0019364,Artemia spp. nauplii,7.2011e-07,1.90000056620012e-06,2.06912814139508
+freshwater,Perca flavescens,0.00400951,Artemia spp. nauplii,7.2011e-07,1.39999658399945e-05,0.847095007712882
+freshwater,Perca flavescens,0.000120193,Artemia spp. nauplii,7.2011e-07,3.6000069491496e-08,74.4606767870989
+freshwater,Perca flavescens,0.000335266,Artemia spp. nauplii,7.2011e-07,1.39999605759849e-06,12.2203943287694
+marine,Oncorhynchus gorbuscha,0.0449752,Musca domestica,7.34494e-07,1.38513513513514e-05,6.64137321814447
+marine,Oncorhynchus keta,0.0469708,Americamysis bahia,7.34494e-07,2.33740243902439e-05,7.1033694361555
+marine,Oncorhynchus gorbuscha,0.0434592,Tisbi sp.,2.29882e-10,7.84314117647059e-07,652508.352111246
+marine,Oncorhynchus gorbuscha,0.00380972,Tisbi sp.,2.69563e-10,1.9858170212766e-06,79493.6846765317
+marine,Oncorhynchus keta,0.0485592,Tisbi sp.,2.29882e-10,3.2646030927835e-06,68685.1601885498
+freshwater,Didinium nasatum,2.9852e-10,Paramecium aurelia (syngen 4),2.9648e-11,1.36110887500201e-12,56995317.5136686
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,8.12754e-08,2.04902658140511e-09,213559.124996533
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,2.50945e-08,5.51827800865454e-09,41279.6686218065
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,2.50945e-08,3.45203158440885e-09,93583.7614544567
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,1.22189e-07,2.79433080540299e-09,214189.250640925
+freshwater,Chaoborus americanus,2.82214e-05,Daphnia pulex,2.50945e-08,1.9951332394971e-09,158832.035488579
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,8.12754e-08,3.47754564895542e-09,97002.8850217812
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,8.12754e-08,7.20190779014308e-09,97002.8850217812
+freshwater,Chaoborus americanus,2.82214e-05,Daphnia pulex,4.89795e-08,4.64844683053334e-09,249789.931522881
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,8.12754e-08,3.14598169637697e-09,196553.967330525
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,1.71891e-07,1.73939350843283e-09,216211.283550957
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,2.50945e-08,2.73778150093582e-09,54924.192916844
+freshwater,Chaoborus americanus,2.82214e-05,Daphnia pulex,8.12754e-08,2.73039233958764e-09,494043.058100686
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,4.89795e-08,1.0114828937242e-08,176528.05232704
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,2.50945e-08,5.38370330856055e-09,179475.793506024
+marine,Crangon septemspinosa,0.00440791,Pseudopleuronectes americanus,0.000335266,0.000216667082667732,8.59019955259758
+freshwater,Ischnura elegans,0.000150371,Daphnia magna,3.83276e-07,1.56423488737026e-09,38547.7033279483
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,8.62286e-08,1.54079683056967e-09,48095.320387426
+freshwater,Ischnura elegans,1.25965e-05,Daphnia magna,4.89795e-08,7.89930599989148e-10,264600.474957892
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,3.83276e-07,7.04860420276591e-10,66951.3106441343
+freshwater,Ischnura elegans,2.49285e-05,Daphnia magna,8.62286e-08,7.1267221562824e-10,122242.452200748
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.22189e-07,7.43056408881541e-10,41011.8753085112
+freshwater,Ischnura elegans,5.03738e-05,Daphnia magna,8.62286e-08,1.68749394019142e-09,95189.1154955912
+freshwater,Ischnura elegans,2.49285e-05,Daphnia magna,2.30525e-07,1.85764284767334e-10,88451.9878232827
+freshwater,Ischnura elegans,5.03738e-05,Daphnia magna,4.89795e-08,1.49478977987086e-09,97020.0484132545
+freshwater,Ischnura elegans,0.000150371,Daphnia magna,8.62286e-08,1.80381988412551e-09,25049.6914851918
+freshwater,Ischnura elegans,2.49285e-05,Daphnia magna,1.22189e-07,4.2621538857889e-10,112429.134619439
+freshwater,Ischnura elegans,0.000150371,Daphnia magna,2.30525e-07,1.33941400405872e-09,23986.9739457597
+freshwater,Ischnura elegans,5.03738e-05,Daphnia magna,3.83276e-07,4.68750202499984e-11,90169.961868964
+freshwater,Ischnura elegans,0.000150371,Daphnia magna,4.89795e-08,1.85069678076286e-09,28224.0384693915
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,4.89795e-08,1.6180536294255e-09,56448.0769387831
+freshwater,Ischnura elegans,0.000150371,Daphnia magna,1.22189e-07,1.92013712620269e-09,25455.6511419504
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,2.30525e-07,6.81426073440839e-10,41227.5758486672
+freshwater,Ischnura elegans,1.25965e-05,Daphnia magna,8.62286e-08,5.57288662923054e-10,197391.736038829
+freshwater,Ischnura elegans,5.03738e-05,Daphnia magna,1.22189e-07,9.83506967812565e-10,93337.3488116126
+freshwater,Ischnura elegans,5.03738e-05,Daphnia magna,2.30525e-07,4.26216119435875e-10,70087.0254860924
+freshwater,Ischnura elegans,1.25965e-05,Daphnia magna,1.22189e-07,3.17707732866026e-10,197988.260921215
+freshwater,Ischnura elegans,2.49285e-05,Daphnia magna,4.89795e-08,1.30121973389198e-09,135827.938687861
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,4.4410630332803e-09,13296.8750747949
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,4.0267341084284e-09,14393.7327522779
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,1.07829975349889e-09,135412.119527693
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,1.96475503228257e-09,24630.9825602397
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,3.00539031727817e-09,11834.4257423489
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,1.20356155007802e-09,49858.2231566318
+freshwater,Chaoborus americanus,8.16465e-05,Cyclops vernalis,4.0095e-08,1.64435024506557e-09,50230.3307799488
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,4.0095e-08,2.63875223613596e-09,45946.4055161746
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,1.71891e-07,2.02529814567306e-09,98694.2350513825
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia rosea,4.0095e-08,2.95117469879518e-09,63638.0389713776
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia rosea,9.39467e-08,3.07181203525664e-09,41747.5592557281
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia rosea,1.71891e-07,2.48574318164202e-09,43193.1356589053
+freshwater,Chaoborus americanus,8.16465e-05,Diaptomus birgei,4.0095e-08,2.28780309617274e-09,56087.2489340746
+freshwater,Chaoborus americanus,8.16465e-05,Diaptomus leptopus,1.71891e-07,1.94460721357093e-09,66705.8837214312
+freshwater,Chaoborus americanus,8.16465e-05,Holopedium gibberum,4.0095e-08,7.28286578657866e-10,235463.507878499
+freshwater,Chaoborus americanus,8.16465e-05,Holopedium gibberum,1.71891e-07,3.7986151549591e-10,159539.075470716
+freshwater,Chaoborus americanus,8.16465e-05,Moina hutchinsoni,4.0095e-08,4.00644987600768e-09,118023.129180282

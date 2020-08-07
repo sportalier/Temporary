@@ -1,0 +1,23 @@
+Predator,Predator_Mass,Prey,Prey_Mass,Handling_Time,PredictedHandling,PredictedIngest,PredictedDigest
+Calathus fuscipes,7.152e-05,Alphitobius diaperinus,2.326e-05,44928,687.89,8.7157e-19,687.89
+Pterostichus oblongopunctatus,6.965e-05,Alphitobius diaperinus,2.326e-05,53568,701.69,8.4968e-19,701.69
+Harpalus rufipe,0.0001291,Alphitobius diaperinus,2.326e-05,35424,441.72,1.5365e-18,441.72
+Pterostichus melanarius,0.00015802,Alphitobius diaperinus,2.326e-05,21600,379.58,1.8656e-18,379.58
+Abax parallelepipedus,0.000302,Alphitobius diaperinus,2.326e-05,8640,233.52,3.4742e-18,233.52
+Carabus nemoralis,0.00051314,Alphitobius diaperinus,2.326e-05,5184,156.91,5.7793e-18,156.91
+Anchomenus dorsalis,1.449e-05,Drosophila hydei,1.42e-06,18144,139.06,1.1491e-20,139.06
+Calathus melanocephalus,1.754e-05,Drosophila hydei,1.42e-06,17280,120.5,1.3804e-20,120.5
+Calathus fuscipes,8.182e-05,Drosophila hydei,1.42e-06,8640,37.964,6.0544e-20,37.964
+Pterostichus oblongopunctatus,6.505e-05,Drosophila hydei,1.42e-06,10368,45.09,4.8579e-20,45.09
+Harpalus rufipe,4.185e-05,Drosophila hydei,1.42e-06,5184,62.769,3.1809e-20,62.769
+Pterostichus melanarius,0.00014803,Drosophila hydei,1.42e-06,3456,24.336,1.0697e-19,24.336
+Abax parallelepipedus,0.00028758,Drosophila hydei,1.42e-06,1728,14.789,2.0237e-19,14.789
+Carabus nemoralis,0.00046384,Drosophila hydei,1.42e-06,432,10.333,3.2022e-19,10.333
+Pardosa lugubris,2.937e-05,Drosophila hydei,1.42e-06,12096,81.863,2.2642e-20,81.863
+Trochosa terricola,3.45e-06,Drosophila hydei,1.42e-06,81216,407.99,2.8976e-21,407.99
+Trochosa terricola,1.141e-05,Drosophila hydei,1.42e-06,40608,166.36,9.1353e-21,166.36
+Trochosa terricola,8.481e-05,Drosophila hydei,1.42e-06,2592,36.956,6.2667e-20,36.956
+Pardosa lugubris,2.577e-05,Heteromorus nitidus,1.5e-07,4320,9.5386,2.1096e-21,9.5386
+Trochosa terricola,3.08e-06,Heteromorus nitidus,1.5e-07,8640,46.925,2.745e-22,46.925
+Trochosa terricola,1.061e-05,Heteromorus nitidus,1.5e-07,1728,18.558,8.9995e-22,18.558
+Trochosa terricola,7.979e-05,Heteromorus nitidus,1.5e-07,864,4.0866,6.2431e-21,4.0866

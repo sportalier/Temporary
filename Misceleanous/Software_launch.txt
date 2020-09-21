@@ -1,0 +1,23 @@
+// Anaconda3 commands
+conda config --set auto_activate_base True
+exit
+
+anaconda-navigator
+
+conda config --set auto_activate_base False
+exit
+
+solve_ivp(fun=lambda t, y: fun(t, y, *args), ...)
+
+
+// eclipse
+
+cd .local/share/umake/ide/eclipse-cpp
+./eclipse
+
+
+// tightVNC
+cd Downloads/tightvnc
+java -jar tightvnc-jviewer.jar
+
+

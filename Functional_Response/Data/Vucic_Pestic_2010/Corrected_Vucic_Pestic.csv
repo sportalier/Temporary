@@ -1,0 +1,23 @@
+Predator,Predator_Mass,Prey,Prey_Mass,Handling_Time
+Calathus fuscipes,7.152e-05,Alphitobius diaperinus,2.326e-05,44928
+Pterostichus oblongopunctatus,6.965e-05,Alphitobius diaperinus,2.326e-05,53568
+Harpalus rufipe,0.0001291,Alphitobius diaperinus,2.326e-05,35424
+Pterostichus melanarius,0.00015802,Alphitobius diaperinus,2.326e-05,21600
+Abax parallelepipedus,0.000302,Alphitobius diaperinus,2.326e-05,8640
+Carabus nemoralis,0.00051314,Alphitobius diaperinus,2.326e-05,5184
+Anchomenus dorsalis,1.449e-05,Drosophila hydei,1.42e-06,18144
+Calathus melanocephalus,1.754e-05,Drosophila hydei,1.42e-06,17280
+Calathus fuscipes,8.182e-05,Drosophila hydei,1.42e-06,8640
+Pterostichus oblongopunctatus,6.505e-05,Drosophila hydei,1.42e-06,10368
+Harpalus rufipe,4.185e-05,Drosophila hydei,1.42e-06,5184
+Pterostichus melanarius,0.00014803,Drosophila hydei,1.42e-06,3456
+Abax parallelepipedus,0.00028758,Drosophila hydei,1.42e-06,1728
+Carabus nemoralis,0.00046384,Drosophila hydei,1.42e-06,432
+Pardosa lugubris,2.937e-05,Drosophila hydei,1.42e-06,12096
+Trochosa terricola,3.45e-06,Drosophila hydei,1.42e-06,81216
+Trochosa terricola,1.141e-05,Drosophila hydei,1.42e-06,40608
+Trochosa terricola,8.481e-05,Drosophila hydei,1.42e-06,2592
+Pardosa lugubris,2.577e-05,Heteromorus nitidus,1.5e-07,4320
+Trochosa terricola,3.08e-06,Heteromorus nitidus,1.5e-07,8640
+Trochosa terricola,1.061e-05,Heteromorus nitidus,1.5e-07,1728
+Trochosa terricola,7.979e-05,Heteromorus nitidus,1.5e-07,864

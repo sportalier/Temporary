@@ -1,0 +1,23 @@
+Predator,Predator_Mass,Prey,Prey_Mass,Handling_Time
+Calathus fuscipes,71.52,Alphitobius diaperinus,23.26,0.52
+Pterostichus oblongopunctatus,69.65,Alphitobius diaperinus,23.26,0.62
+Harpalus rufipe,129.1,Alphitobius diaperinus,23.26,0.41
+Pterostichus melanarius,158.02,Alphitobius diaperinus,23.26,0.25
+Abax parallelepipedus,302,Alphitobius diaperinus,23.26,0.1
+Carabus nemoralis,513.14,Alphitobius diaperinus,23.26,0.06
+Anchomenus dorsalis,14.49,Drosophila hydei,1.42,0.21
+Calathus melanocephalus,17.54,Drosophila hydei,1.42,0.2
+Calathus fuscipes,81.82,Drosophila hydei,1.42,0.1
+Pterostichus oblongopunctatus,65.05,Drosophila hydei,1.42,0.12
+Harpalus rufipe,41.85,Drosophila hydei,1.42,0.06
+Pterostichus melanarius,148.03,Drosophila hydei,1.42,0.04
+Abax parallelepipedus,287.58,Drosophila hydei,1.42,0.02
+Carabus nemoralis,463.84,Drosophila hydei,1.42,0.005
+Pardosa lugubris,29.37,Drosophila hydei,1.42,0.14
+Trochosa terricola,3.45,Drosophila hydei,1.42,0.94
+Trochosa terricola,11.41,Drosophila hydei,1.42,0.47
+Trochosa terricola,84.81,Drosophila hydei,1.42,0.03
+Pardosa lugubris,25.77,Heteromorus nitidus,0.15,0.05
+Trochosa terricola,3.08,Heteromorus nitidus,0.15,0.1
+Trochosa terricola,10.61,Heteromorus nitidus,0.15,0.02
+Trochosa terricola,79.79,Heteromorus nitidus,0.15,0.01

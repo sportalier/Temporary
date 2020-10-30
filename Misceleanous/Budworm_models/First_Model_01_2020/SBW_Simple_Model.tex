@@ -1,0 +1,158 @@
+\documentclass[12 pt]{article}
+%\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\usepackage{setspace}
+
+\setlength{\emergencystretch}{15 pt}
+\geometry{tmargin=2.5 cm, bmargin=2.5 cm, lmargin=2.5 cm, rmargin=2.5 cm}
+\onehalfspacing
+
+\title{Spruce Budworm Work in Progress}
+\author{S\'ebastien Portalier}
+\date{January 2020}
+
+\begin{document}
+\begin{center}
+\begin{Large}
+\textbf{Simple model for spruce budworms}
+\end{Large}
+\end{center}
+
+\section{Features}
+The model should include a diapause. Emergence depends on temperature, bu may also depends on internal energy (to be discussed). In a first step, the model includes only three stages. L1 and L2 stages are lumped together (i.e. Fall stage). Similarly, L3-L6 are lumped as well (i.e. Summer stage). Fall stages and Summer stages are separated by a diapause stage. Budworms emerge in Spring, they develop during Summer. Then they lay eggs that hatch into a Winter stage that goes into diapause. \par
+Hence, the model considers a so-called Fall stage population ($L_f$) that runs from egg stage until the beginning of the diapause. Then, a diapause stage population ($L_d$) runs until Spring. Last, a Summer stage population ($L_s$) runs from the end of the diapause until reproduction. \par
+$L_f$ and $L_d$ individuals do not feed and rely on internal energy provided by the former generation. $L_s$ individuals need food for survival. Forage during Summer also translates into internal energy for the future generation. \par
+The model considers three events that represent the transition between each life stage: 
+\begin{itemize}
+\item $t_e$ is the time of emergence, which is the end of the diapause stage
+\item $t_r$ is the time of reproduction, which is the end of the Summer stage
+\item $t_d$ is the time of diapause (i.e. when diapause begins), which is the end of the Fall stage
+\end{itemize}
+Thus, Summer stage ($L_s$) runs from $t=t_e$ to $t=t_r$, Fall stage ($L_f$) runs from $t=t_r$ to $t=t_d$, and diapause stage ($L_d$) runs from $t=t_d$ to $t=t_e$.
+\section{Model}
+\subsection{Fall population ($L_f$)}
+\begin{equation}
+    \left \lbrace
+    \begin{array}{lcl}
+        \Dot{R_f} & = & r_f(T(t)) \\
+        \Dot{L_f} & = & - m_f(E_f (t))L_f \\
+        \Dot{E_f} & = & -a_1 T ^{a_2} (t)
+    \end{array} \right .
+\end{equation}
+The first equation is larval development, where $R_f$ is the Fall life stage, $r_f$ is the development rate that depends on temperature ($T$) at any time ($t$). It begins at $t=t_r$. $R_f(t_r)=0$ and development ends when $R_f(t)=1$, this ending time determines $t_d$. The first equation gives the duration of the life stage, and the time during which the two following equations run.\par
+The second equation is larval survival. Larvae die at a rate $m_f$ that depends on internal energy available ($E_f$). The third equation represents the decay of internal energy through time that increases with temperature, where $a_1$ and $a_2$ are data-derived parameters.\par
+It is possible to write explicit solutions for the second and third equations. Fall population writes
+\begin{equation}
+    L_f(t)=e ^{-\int m_f(E_f (t)) \mathrm{d}t} L_f (t_r)
+\end{equation}
+Moreover, $m_f$ is monotone decreasing in $E_f$ (i.e. the more energy larvae get, the less they are likely to die). Available energy writes
+\begin{equation}
+    E_f (t) = E_f(t_r) - \int _{t_r}^{t} a_1 T ^{a_2}(t) \mathrm{d}t
+\end{equation}
+
+\subsection{Diapause population ($L_d$)}
+\begin{equation}
+    \left \lbrace
+    \begin{array}{lcl}
+        \Dot{R_d} & = & r_d(T(t)) \\
+        \Dot{L_d} & = & - m_d(E_d (t))L_f \\
+        \Dot{E_d} & = & -a_3 T ^{a_4} (t)
+    \end{array} \right .
+\end{equation}
+Initial conditions are
+\begin{equation}
+    \left \lbrace
+    \begin{array}{lcl}
+	R_d(t_d) & = & 0 \\
+	L_d(t_d) & = & L_f(t_d) \\
+	E_d(t_d) & = & E_f(t_d)	
+    \end{array} \right .
+\end{equation}
+This stage ends when $R_d(t)=1$, which determines the time of emergence ($t_e$). Individuals die at a rate $m_d$ that depends on available energy ($E_d$) that shows a decay through time. \\
+\textbf{Two questions remain:} \\
+1) Is diapause just a dormant stage, or does some development occur? \\
+2) What happens if $E_d (t)= 0$? If larvae run out of energy before the end of the diapause, do they emerge anyway even if the development is not fully completed, or do they die?
+
+\subsection{Summer population ($L_s$)}
+\begin{equation}
+    \left \lbrace
+    \begin{array}{lcl}
+        \Dot{R_s} & = & r_s(T(t)) \\
+        \Dot{L_s} & = & - m_s(F)L_s \\
+        \Dot{E_s} & = & c bFL_s -m_s(F)E_s 
+    \end{array} \right .
+\end{equation}
+Initial conditions are
+\begin{equation}
+    \left \lbrace
+    \begin{array}{lcl}
+	R_s(t_e) & = & 0 \\
+	L_s(t_e) & = & L_d(t_e) \\
+	E_s(t_e) & = & 0	
+    \end{array} \right .
+\end{equation}
+Development ends when $R_s(t) = 1$, which determines the time of reproduction ($t_r$). %The second equation is larval survival during Summer.
+Death rate ($m_s$) is now food-dependent. Energy is now stored ($E_s$) by Summer stages and will be given to Fall and diapause stages via eggs. Energy comes from consumed food, with a conversion efficiency ($c$). When a given individual dies during Summer time (i.e. before it reproduces), all its energy is lost. Food availability is reprensented by a different set of equations (see below). \par
+
+\subsection{Reproduction}
+Once Summer stage is fully developed ($t=t_r$), reproduction occurs. 
+\begin{equation}
+    \left \lbrace
+    \begin{array}{lcl}
+        L_f(t_r) & = & g_i L_s(t_r) \\
+        E_f (t_r) & = & \dfrac{E_s (t_r)}{L_f(t_r)}
+    \end{array} \right .
+\end{equation}
+Remaining Summer stage individuals produce a given number of offspring ($g_i$) \textit{per capita}. Energy is evenly distributed among offspring: each of these individuals will receive energy which is the total amount of energy stored divided by the number of offspring. \par
+These new offspring are the next generation, and thus $L_f (t_r)$ and $E_f (t_r)$ are the iniatial conditions for the Fall stage equations (1). 
+%\begin{equation}
+%    \left \lbrace
+%    \begin{array}{lcl}
+%        L_w(t_0) & = & L_w(t_n) \\
+%        \alpha _w (t_0) & = & \alpha _w (t_n)
+%    \end{array} \right .
+%\end{equation}
+\subsection{Food availability ($F$)}
+Food availability is represented by a different set of equations because its timing is independent of that of the budworm. The general food equation is
+\begin{equation}
+   \Dot{F} = P(t) - dF - bFL_s
+\end{equation}
+Food (leaves) is produced at a rate $P$ that varies through time. There is a natural decay ($d$) due to senescence and other sources of loss not related to budworms. Last, leaves are consumed by budworms at a rate $b$. 
+\subsubsection{Food production ($P$)}
+Food production varies through time, we assume that temperature is the main driver for budburst.
+\begin{equation}
+    \left \lbrace
+    \begin{array}{lcll}
+        P(t) & = & P^* & \text{ , if } T(t) \geqslant T^*  \\
+        P(t) & = & 0 & \text{ , if } T(t) < T^*
+    \end{array} \right .
+\end{equation}
+Above a temperature threshold ($T^*$), production occurs, and below this threshold, there is no production. 
+
+\subsubsection{Consumption by budworms}
+Consumption occurs only when Summer stage larvae are present.
+\begin{equation}
+    \left \lbrace
+    \begin{array}{lcll}
+         \Dot{F} & = & P(t) - dF - bFL_s & \text{ , if } t \in [t_e , t_r ] \\
+         \Dot{F} & = & P(t) - dF & \text{ , if } t \in [t_r , t_e]
+    \end{array} \right .
+\end{equation}
+\textbf{Some questions remain.} \\
+1) Should we make food production ($P$) dependent on temperature, or photoperiod, or both? \\
+2) What would be the most relevant metrics for food ($F$)? Should we consider leaf area, leaf biomass ...? \\
+3) For simplicity, we assume no tree mortality (i.e. the number of trees is constant). For a longer trend, this parameter will have to vary as well. \\
+4) For simplicity, we also do not distinguish between new leaves and old leaves, which may be necessary. 
+
+\section{General questions}
+Two general questions need to be answered before going further. \\
+\subsection{Model validity}
+The main question is to know if this simple model is somehow valid. It is always possible to add more details. But before considering the relevance of doing so, we should be certain that this "core model" is valid.
+\subsection{Scientific questions}
+The second and fundamental point is to determine precisely which scientific questions we want to address with this model. Having a clear idea of the goal will help determining which mechanisms we want to include/exclude, and how to do it.
+
+
+
+\end{document}
